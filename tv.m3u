@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TV",cultura
-https://www.dailymotion.com/cdn/live/video/x7wur7g.m3u8?sec=ni85bJvxdg_Y2OoYim0Mm7L0kTNZXCzub4BuBWhKcidfOzdJ_8m4VfUoHi6e19znxdLbuaXfDOS_RyOettKnJQ&dmTs=36857&dmV1st=6B779EE24DDDA1CE0A1D880272F34570
-
-#EXTINF:-1 tvg-logo="" group-title="TV",
-#EXTINF:-1 tvg-logo="" group-title="TV",
-#EXTINF:-1 tvg-logo="" group-title="TV",
+#EXTINF:-1 tvg-logo="" group-title="TV",TV Futuro
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",Tv Metropole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",Cultura Hd
+http://168.205.87.198:8555/live/solange/123456/32.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",Tv Guara
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w680395261.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",
 #EXTINF:-1 tvg-logo="" group-title="TV",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1435283609.m3u8

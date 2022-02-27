@@ -1,10 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TV", Band News 2
-https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV", Band News
-https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1671033595.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",CNN Brasil
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+#EXTINF:-1 tvg-logo="" group-title="TV",cultura
+https://www.dailymotion.com/cdn/live/video/x7wur7g.m3u8?sec=ni85bJvxdg_Y2OoYim0Mm7L0kTNZXCzub4BuBWhKcidfOzdJ_8m4VfUoHi6e19znxdLbuaXfDOS_RyOettKnJQ&dmTs=36857&dmV1st=6B779EE24DDDA1CE0A1D880272F34570
+
+#EXTINF:-1 tvg-logo="" group-title="TV",
+#EXTINF:-1 tvg-logo="" group-title="TV",
+#EXTINF:-1 tvg-logo="" group-title="TV",
+#EXTINF:-1 tvg-logo="" group-title="TV",
+#EXTINF:-1 tvg-logo="" group-title="TV",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1435283609.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",Rede TV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1145706398.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",TV CULTURA PR (Catve)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",RunTime Brasil
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",Ürban Kids¹ (Floripa-SC)

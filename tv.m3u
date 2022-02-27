@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="TV", Band News 2
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", Band News
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1671033595.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",CNN Brasil
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
 #EXTINF:-1 tvg-logo="" group-title="TV",RunTime Brasil
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",Ürban Kids¹ (Floripa-SC)

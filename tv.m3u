@@ -55,8 +55,10 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",SBT GO (TV Serra Dourada)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1310764323.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",
-#EXTINF:-1 tvg-logo="" group-title="TV",
+#EXTINF:-1 tvg-logo="" group-title="TV",Band 3
+http://evpp.mm.uol.com.br:1935/geob_band/app/media_w1256587797_5114.ts?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="" group-title="TV",Band News
+http://168.205.87.198:8555/live/JOSEE/123456/174.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="" group-title="TV",
 #EXTINF:-1 tvg-logo="" group-title="TV",
 #EXTINF:-1 tvg-logo="" group-title="TV",

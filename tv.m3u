@@ -56,13 +56,17 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 #EXTINF:-1 tvg-logo="" group-title="TV",SBT GO (TV Serra Dourada)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1310764323.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",Band 3
-http://evpp.mm.uol.com.br:1935/geob_band/app/media_w1256587797_5114.ts?PEDROJUNIORTUTORIAIS
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w2134141352.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="" group-title="TV",Band News
 http://168.205.87.198:8555/live/JOSEE/123456/174.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="" group-title="TV",
-#EXTINF:-1 tvg-logo="" group-title="TV",
-#EXTINF:-1 tvg-logo="" group-title="TV",
-#EXTINF:-1 tvg-logo="" group-title="TV",
+#EXTINF:-1 tvg-logo="" group-title="TV",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",CNN News Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1386126585.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",TCL
+http://tv.minhalista.me/live/raminho123/raminho123/37036.ts
+#EXTINF:-1 tvg-logo="" group-title="TV",tv diario
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZaIZDBPH3m8D5Bt5LlW1BQ0)/dm/3/x7txn7q/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",
 
 

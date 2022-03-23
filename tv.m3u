@@ -57,1740 +57,720 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w2134141352.m3u8?PEDROJUN
 http://168.205.87.198:8555/live/JOSEE/123456/174.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="" group-title="TV",CNN News Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1386126585.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",Globo
-http://50.7.34.155:2201/BR/Globo_HD_SP-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
-#EXTINF:-1 tvg-logo="" group-title="TV",A&E
-https://list.iptvcat.com/my_list/s/9a6e41ced860619ae96d6cb8700bfe98.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",A&E 2
-https://list.iptvcat.com/my_list/s/c96ba6e5f783acda9dbd3c4e9ed2b2f6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",A&E 3
-https://list.iptvcat.com/my_list/s/cc6dcbba09ff7615b5d0008bcabd535d.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",A&E FHD
-https://list.iptvcat.com/my_list/s/6445e95c8a60d1bb56712f1f39124612.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",AXN
-https://list.iptvcat.com/my_list/s/557d79547c2c0c391b77ae8ade7baa2c.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",AXN FHD
-https://list.iptvcat.com/my_list/s/96dd487c33da1dc9a5923d8313c11304.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",Animal Planet
-https://list.iptvcat.com/my_list/s/5a30a09f00605c9edc59b3362aa17789.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",Globo FHD
-https://list.iptvcat.com/my_list/s/77104e5dee067341e9260161b07a587d.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",AMC FHD
-https://list.iptvcat.com/my_list/s/7f371f427a7f0f2eae88051a3d0e31d1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",Viva FHD
-https://list.iptvcat.com/my_list/s/ad30e42f7aa7577559e4d8994a4f81ff.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",Viva 4K
-https://list.iptvcat.com/my_list/s/e07538b50b1edc80c69a96b19a8edc01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",Viva HD
-https://list.iptvcat.com/my_list/s/a036551122aa679e67806a6e855630dd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",Cartoon Network HD
-https://list.iptvcat.com/my_list/s/c9a9a74fa0a78725a9705927af771080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",Cartoon Network FHD
-https://list.iptvcat.com/my_list/s/a615de449ed3036d40969ad9e89cab5b.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",ToonCast FHD
-https://list.iptvcat.com/my_list/s/367a8d992677f620118f226d40d4fac5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",ToonCast HD
-https://list.iptvcat.com/my_list/s/bfd42098703928d9e9ecf8943d150f4a.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV", Tv Globo
-http://dns.bplay.live:8080/anderson1234/anderson1234/1949
-#EXTINF:-1 tvg-logo="" group-title="TV", Tv Globo 2
+#EXTINF:-1 tvg-logo="" group-title="TV", Arte 1
+https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", My Time Movies Brasil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", DarkMatter TV
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", Sbt Tv Floresta
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w349049629_b1000000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", Sbt tvguajara
+https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", Sbt
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/sbtbrasilia/live
+#EXTINF:-1 tvg-logo="" group-title="TV", Sbt 3
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", Globo Bahia
+https://canal1.proxy.tokplay.com.br/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8
+
+
+
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AgroBrasil TV (720p) [Not 24/7]" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title=" Ao ar livre",AgroBrasil TV (720p) [Not 24/7]
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Terra Viva (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title=" Ao ar livre",Terra Viva (720p) [Not 24/7]
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SEX PRIVÃ‰ (360p)" tvg-logo="https://imgur.com/w6aoynZ.png" group-title="Adulto XXX",SEX PRIVÃ‰ (360p)
+https://origin-02.nxplay.com.br/SEXPRIVE_HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VENUS (720p)" tvg-logo="https://imgur.com/jOnpjDz.png" group-title="Adulto XXX",VENUS (720p)
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Venus/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1 tvg-id="Filmon 1 (480p)" tvg-logo="https://imgur.com/5MAzdlO.png" group-title="Adulto XXX",Filmon 1 (480p)
+https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Filmon 2 (480p)" tvg-logo="https://imgur.com/5MAzdlO.png" group-title="Adulto XXX",Filmon 2 (480p)
+https://www.filmon.com/vr-streams/6155.high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Filmon 3 (480p)" tvg-logo="https://imgur.com/5MAzdlO.png" group-title="Adulto XXX",Filmon 3 (480p)
+https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Anime TV (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="AnimaÃ§Ã£o",Anime TV (360p) [Not 24/7]
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Naruto (720p)" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="AnimaÃ§Ã£o",Naruto (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Anime (720p)" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="AnimaÃ§Ã£o",Pluto TV Anime (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Anime AÃ§Ã£o (720p)" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="AnimaÃ§Ã£o",Pluto TV Anime AÃ§Ã£o (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Tokusato (720p)" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="AnimaÃ§Ã£o",Tokusato (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="TV Tokyo (360p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/320px-TV_Tokyo_logo_20110629.svg.png" group-title="AnimaÃ§Ã£o",TV Tokyo (360p) [Not 24/7]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="BBB 2022 CAM 1 (720p)" tvg-logo="http://printv.esy.es/server/BBB.png" group-title="BBB 2022",BBB 2022 CAM 1 (720p)
+http://161.35.3.233/hls/bbb-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="BBB 2022 CAM 2 (720p)" tvg-logo="http://printv.esy.es/server/BBB.png" group-title="BBB 2022",BBB 2022 CAM 2 (720p)
+http://161.35.3.233/hls/bbb2-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="RetrÃ´ Cartoon (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/cyfu3qP.png" group-title="ClÃ¡ssico",RetrÃ´ Cartoon (480p) [Not 24/7]
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central Pluto TV (720p)" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Comedia",Comedy Central Pluto TV (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Comedy Central South Park (720p) [Not 24/7]" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Comedia",Comedy Central South Park (720p) [Not 24/7]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="FailArmy (720p)" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="Comedia",FailArmy (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV ComÃ©dia (720p)" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="Comedia",Pluto TV ComÃ©dia (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Porta dos Fundos (720p) [Not 24/7]" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="Comedia",Porta dos Fundos (720p) [Not 24/7]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="The Pet Collective (720p)" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="Comedia",The Pet Collective (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="1001 Noites (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/xbkYDeg.png" group-title="Compras",1001 Noites (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade Brasil (1080p)" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="CulinÃ¡ria",Tastemade Brasil (1080p)
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV MistÃ©rios (720p)" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="Documentario",Pluto TV MistÃ©rios (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Natureza (720p)" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Documentario",Pluto TV Natureza (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Vida Real (720p)" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="Documentario",Pluto TV Vida Real (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="RT Documentary (1080p)" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentario",RT Documentary (1080p)
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Mackenzie (480p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/320px-TV_Mackenzie_logo.svg.png" group-title="EducaÃ§Ã£o",TV Mackenzie (480p) [Not 24/7]
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV UFG (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="EducaÃ§Ã£o",TV UFG (720p) [Not 24/7]
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVE RS (1080p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="EducaÃ§Ã£o",TVE RS (1080p) [Not 24/7]
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Futura (540p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/300px-Canal_Futura.png" group-title="EducaÃ§Ã£o",Futura (540p) [Not 24/7]
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="Rede Minas (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/Tgov03S.jpg" group-title="EducaÃ§Ã£o",Rede Minas (1080p) [Not 24/7]
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-id="Santa Cecilia TV (288p) [Not 24/7]" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="EducaÃ§Ã£o",Santa Cecilia TV (288p) [Not 24/7]
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BET Being Mary Jane (720p)" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="Entreterimento",BET Being Mary Jane (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="BET Pluto TV (720p)" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="Entreterimento",BET Pluto TV (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Jovem Pan Pluto TV (720p)" tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="Entreterimento",Jovem Pan Pluto TV (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="MasterChef (720p)" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="Entreterimento",MasterChef (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="MTV Are you the One? (720p)" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="Entreterimento",MTV Are you the One? (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="MTV Pluto TV (720p)" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="Entreterimento",MTV Pluto TV (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Nosey EscÃ¢ndalos (720p)" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="Entreterimento",Nosey EscÃ¢ndalos (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="O Encantador de CÃ£es (720p)" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="Entreterimento",O Encantador de CÃ£es (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="People are Awesome (720p)" tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png" group-title="Entreterimento",People are Awesome (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="SporTV 2 (720p)" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esportes",SporTV 2 (720p)
+http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="SporTV (720p)" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes",SporTV (720p)
+http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="FUEL TV (720p)" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="Esportes",FUEL TV (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Red Bull TV (1080p)" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Esportes",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 2 Brasil (480p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes",TNT Sports 2 Brasil (480p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 3 Brasil (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes",TNT Sports 3 Brasil (360p)
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 4 Brasil (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes",TNT Sports 4 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 5 Brasil (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes",TNT Sports 5 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOX Sports (480p)" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="Esportes",FOX Sports (480p)
+http://50.7.34.155:2201/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="Premiere Clubes (1080p)" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Esportes",Premiere Clubes (1080p)
+http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="OFF (1080p)" tvg-logo="https://imgur.com/QPqeAcj.png" group-title="Esportes",OFF (1080p)
+http://50.7.34.155:2201/BR/OFF_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="Band Sports (720p)" tvg-logo="https://imgur.com/QaZ2nxB.png" group-title="Esportes",Band Sports (720p)
+https://origin-02.nxplay.com.br/band_spor_139913_1_/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN EXTRA (720p)" tvg-logo="https://imgur.com/exEDct8.png" group-title="Esportes",ESPN EXTRA (720p)
+http://50.7.34.155:2201/BR/espnextra-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="ESPN 4 (720p)" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Esportes",ESPN 4 (720p)
+http://50.7.34.155:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="ESPN 3 (720p)" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Esportes",ESPN 3 (720p)
+http://50.7.34.155:2201/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="ESPN 2 (720p)" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Esportes",ESPN 2 (720p)
+http://50.7.34.155:2200/BR/ESPN_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="ESPN 2 (480p)" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Esportes",ESPN 2 (480p)
+https://transcoder-itatiba-01.nxplay.com.br/ESPN_INT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN BRASIL (720p)" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Esportes",ESPN BRASIL (720p)
+http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="ESPN Brasil (480p)" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Esportes",ESPN Brasil (480p)
+http://45.161.252.33/ESPN_BR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="COMBATE (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Combate_Flat_Sem_Slogan_png.png" group-title="Esportes",COMBATE (720p)
+http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="SporTV 3 (720p)" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Esportes",SporTV 3 (720p)
+http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="Nick Teen (720p)" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Familia",Nick Teen (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="MyTime movie network Brazil (720p)" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Filmes",MyTime movie network Brazil (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Cine ClÃ¡ssicos (720p)" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine ClÃ¡ssicos (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Cine ComÃ©dia (720p)" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine ComÃ©dia (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Cine Drama (720p)" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine Drama (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Cine FamÃ­lia (720p)" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine FamÃ­lia (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Cine Romance (720p)" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine Romance (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Cine Sucessos (720p)" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine Sucessos (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Cine Terror (720p)" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine Terror (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Filmes AÃ§Ã£o (720p)" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Filmes",Pluto TV Filmes AÃ§Ã£o (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Filmes Nacionais (720p)" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="Filmes",Pluto TV Filmes Nacionais (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Runtime (Brazil) (1080p) [Geo-blocked]" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" group-title="Filmes",Runtime (Brazil) (1080p) [Geo-blocked]
+https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TELE CINE ACTION (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="Filmes",TELE CINE ACTION (720p)
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Filmes Suspense (720p)" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Filmes",Filmes Suspense (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Ghost TV (712p) [Not 24/7]" tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="Filmes",Ghost TV (712p) [Not 24/7]
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Aberta (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/1pZUGb4.png" group-title="Geral",TV Aberta (1080p) [Not 24/7]
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Alternativa (614p) [Not 24/7]" tvg-logo="https://i.imgur.com/VnlWeo3.png" group-title="Geral",TV Alternativa (614p) [Not 24/7]
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Birigui (640p)" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="Geral",TV Birigui (640p)
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV BRICS Portuguese (1080p)" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Geral",TV BRICS Portuguese (1080p)
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Carioca (720p)" tvg-logo="https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Geral",TV Carioca (720p)
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Destak (360p)" tvg-logo="https://i.imgur.com/W1LutVP.png" group-title="Geral",TV Destak (360p)
+https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV DiÃ¡rio do SertÃ£o (720p)" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="Geral",TV DiÃ¡rio do SertÃ£o (720p)
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Futuro (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/BFekw0L.png" group-title="Geral",TV Futuro (720p) [Not 24/7]
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band (1080p) [Geo-blocked]" tvg-logo="https://imgur.com/HnL2uBA.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="Geral",Band (1080p) [Geo-blocked]
+https://goiptv.site/redir.php?acesso=c75fa1c53a5c59ead4b330ed16fbe829&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
+
+#EXTINF:-1 tvg-id="TV Metropole (1080p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo_da_TV_Metr%C3%B3pole.png/300px-Logotipo_da_TV_Metr%C3%B3pole.png" group-title="Geral",TV Metropole (1080p) [Not 24/7]
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Thathi (720p) [Not 24/7]" tvg-logo="https://tv.thathi.com.br/wp-content/uploads/2021/02/tv-thathi-150x150.png" group-title="Geral",TV Thathi (720p) [Not 24/7]
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Catve FM (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/w89yw36.png" group-title="Geral",Catve FM (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Tropical (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="Geral",TV Tropical (480p) [Not 24/7]
+https://59f2354c05961.streamlock.net:1443/tvtropical/tvtropical/playlist.m3u8
+
+#EXTINF:-1 tvg-id="COM Brasil (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Geral",COM Brasil (720p) [Not 24/7]
+https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Verdes Campos (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/1mK39TC.png" group-title="Geral",TV Verdes Campos (360p) [Not 24/7]
+https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cultura ParÃ¡ (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="Geral",Cultura ParÃ¡ (480p) [Not 24/7]
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+
+#EXTINF:-1 tvg-id="Yeeaah! (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="Geral",Yeeaah! (720p) [Not 24/7]
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ISTV (1080p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logo-istv.png" group-title="Geral",ISTV (1080p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Globo SP (720p)" tvg-logo="https://images2.imgbox.com/56/1a/L3kVJJZn_o.png" group-title="Geral",Globo SP (720p)
+https://stream.goiptv.site/hls/globo-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="MKK Web TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/TDEDNLK.png" group-title="Geral",MKK Web TV (720p) [Not 24/7]
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globo MG (720p)" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Geral",Globo MG (720p)
 http://168.205.87.198:8555/live/1499/123456/70.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",AXN 2
-http://dns.bplay.live:8080/anderson1234/anderson1234/2053
-#EXTINF:-1 tvg-logo="" group-title="TV",AXN 2 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69535
 
+#EXTINF:-1 tvg-id="Paramount+ Apresenta (720p)" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="Geral",Paramount+ Apresenta (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
 
+#EXTINF:-1 tvg-id="Globo RPC (720p)" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Geral",Globo RPC (720p)
+http://45.226.83.14/live/RPCHD/720p.m3u8
 
+#EXTINF:-1 tvg-id="PerÃº Channel (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="Geral",PerÃº Channel (720p) [Not 24/7]
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Globo SP (1080p)" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Geral",Globo SP (1080p)
+http://50.7.34.155:2200/BR/Globo_HD_SP-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
-###########################################################
-#EXTINF:-1,BBB 2022 - HD
-http://tbsrv.me:8880/danselmo/11985778779/189117
-#EXTINF:-1,Gshow - Mesa BBB
-http://tbsrv.me:8880/danselmo/11985778779/127131
-#EXTINF:-1,BBB 2022 HD
-http://tbsrv.me:8880/danselmo/11985778779/190945
-#EXTINF:-1,BBB 2022 SD
-http://tbsrv.me:8880/danselmo/11985778779/190946
-#EXTINF:-1,BBB 2022 - MOSAICO
-http://tbsrv.me:8880/danselmo/11985778779/121464
-#EXTINF:-1,BBB 2022 - CONFESSIONARIO
-http://tbsrv.me:8880/danselmo/11985778779/121476
-#EXTINF:-1,BBB 2022 - QUARTO LOLLIPOP
-http://tbsrv.me:8880/danselmo/11985778779/121477
-#EXTINF:-1,BBB 2022 - QUARTO GRUNGE
-http://tbsrv.me:8880/danselmo/11985778779/121478
-#EXTINF:-1,BBB 2022 - CHUVEIRO
-http://tbsrv.me:8880/danselmo/11985778779/121479
-#EXTINF:-1,BBB 2022 - COZINHA
-http://tbsrv.me:8880/danselmo/11985778779/121480
-#EXTINF:-1,BBB 2022 - SALA
-http://tbsrv.me:8880/danselmo/11985778779/121481
-#EXTINF:-1,BBB 2022 - PISCINA
-http://tbsrv.me:8880/danselmo/11985778779/121482
-#EXTINF:-1,BBB 2022 - JARDIM
-http://tbsrv.me:8880/danselmo/11985778779/121483
-#EXTINF:-1,BBB 2022 - ACADEMIA
-http://tbsrv.me:8880/danselmo/11985778779/121484
-#EXTINF:-1,BBB 2022 CAM 10
-http://tbsrv.me:8880/danselmo/11985778779/121485
-#EXTINF:-1,BBB 2022 CAM 11
-http://tbsrv.me:8880/danselmo/11985778779/121486
-#EXTINF:-1,Cariocao 2022 - 1
-http://tbsrv.me:8880/danselmo/11985778779/191906
-#EXTINF:-1,Cariocao 2022 - 2
-http://tbsrv.me:8880/danselmo/11985778779/191907
-#EXTINF:-1,Paulistão Play 1
-http://tbsrv.me:8880/danselmo/11985778779/192025
-#EXTINF:-1,Prime Video 1
-http://tbsrv.me:8880/danselmo/11985778779/194317
-#EXTINF:-1,Prime Video 2
-http://tbsrv.me:8880/danselmo/11985778779/194318
-#EXTINF:-1,A&E FHD
-http://tbsrv.me:8880/danselmo/11985778779/643
-#EXTINF:-1,A&E HD
-http://tbsrv.me:8880/danselmo/11985778779/51
-#EXTINF:-1,A&E SD
-http://tbsrv.me:8880/danselmo/11985778779/69585
-#EXTINF:-1,AMC FHD
-http://tbsrv.me:8880/danselmo/11985778779/69710
-#EXTINF:-1,AMC HD
-http://tbsrv.me:8880/danselmo/11985778779/70008
-#EXTINF:-1,AMC SD
-http://tbsrv.me:8880/danselmo/11985778779/69580
-#EXTINF:-1,Animal Planet FHD
-http://tbsrv.me:8880/danselmo/11985778779/69519
-#EXTINF:-1,Animal Planet HD
-http://tbsrv.me:8880/danselmo/11985778779/69520
-#EXTINF:-1,Animal Planet SD
-http://tbsrv.me:8880/danselmo/11985778779/69521
-#EXTINF:-1,Arte 1 FHD
-http://tbsrv.me:8880/danselmo/11985778779/92197
-#EXTINF:-1,Arte 1 HD
-http://tbsrv.me:8880/danselmo/11985778779/116
-#EXTINF:-1,Arte 1 SD
-http://tbsrv.me:8880/danselmo/11985778779/92198
-#EXTINF:-1,AXN FHD
-http://tbsrv.me:8880/danselmo/11985778779/69535
-#EXTINF:-1,AXN HD
-http://tbsrv.me:8880/danselmo/11985778779/70009
-#EXTINF:-1,AXN SD
-http://tbsrv.me:8880/danselmo/11985778779/69587
-#EXTINF:-1,Baby TV FHD
-http://tbsrv.me:8880/danselmo/11985778779/92199
-#EXTINF:-1,Baby TV HD
-http://tbsrv.me:8880/danselmo/11985778779/92200
-#EXTINF:-1,Baby TV SD
-http://tbsrv.me:8880/danselmo/11985778779/631
-#EXTINF:-1,Band News FHD
-http://tbsrv.me:8880/danselmo/11985778779/69463
-#EXTINF:-1,Band News HD
-http://tbsrv.me:8880/danselmo/11985778779/69464
-#EXTINF:-1,Band News SD
-http://tbsrv.me:8880/danselmo/11985778779/46
-#EXTINF:-1,Band Sports FHD
-http://tbsrv.me:8880/danselmo/11985778779/70044
-#EXTINF:-1,Band Sports HD
-http://tbsrv.me:8880/danselmo/11985778779/70045
-#EXTINF:-1,Band Sports SD
-http://tbsrv.me:8880/danselmo/11985778779/69789
-#EXTINF:-1,Band TV FHD
-http://tbsrv.me:8880/danselmo/11985778779/69591
-#EXTINF:-1,Band TV HD
-http://tbsrv.me:8880/danselmo/11985778779/11
-#EXTINF:-1,Band TV SD
-http://tbsrv.me:8880/danselmo/11985778779/69593
-#EXTINF:-1,Band TV Bahia HD
-http://tbsrv.me:8880/danselmo/11985778779/141938
-#EXTINF:-1,Band TV BSB HD
-http://tbsrv.me:8880/danselmo/11985778779/141939
-#EXTINF:-1,Band TV Curitiba HD
-http://tbsrv.me:8880/danselmo/11985778779/141940
-#EXTINF:-1,Band TV Goiania HD
-http://tbsrv.me:8880/danselmo/11985778779/141943
-#EXTINF:-1,Band TV Paraná HD
-http://tbsrv.me:8880/danselmo/11985778779/141944
-#EXTINF:-1,Band TV RJ FHD
-http://tbsrv.me:8880/danselmo/11985778779/141937
-#EXTINF:-1,Band TV RS HD
-http://tbsrv.me:8880/danselmo/11985778779/141941
-#EXTINF:-1,Band TV Campinas FHD
-http://tbsrv.me:8880/danselmo/11985778779/141942
-#EXTINF:-1,Band TV SP HD
-http://tbsrv.me:8880/danselmo/11985778779/99256
-#EXTINF:-1,Band TV SP FHD
-http://tbsrv.me:8880/danselmo/11985778779/99257
-#EXTINF:-1,BIS FHD
-http://tbsrv.me:8880/danselmo/11985778779/69760
-#EXTINF:-1,BIS HD
-http://tbsrv.me:8880/danselmo/11985778779/69761
-#EXTINF:-1,BIS SD
-http://tbsrv.me:8880/danselmo/11985778779/69762
-#EXTINF:-1,Boa Vontade FHD
-http://tbsrv.me:8880/danselmo/11985778779/142099
-#EXTINF:-1,Boomerang FHD
-http://tbsrv.me:8880/danselmo/11985778779/69484
-#EXTINF:-1,Boomerang HD
-http://tbsrv.me:8880/danselmo/11985778779/69485
-#EXTINF:-1,Boomerang SD
-http://tbsrv.me:8880/danselmo/11985778779/69486
-#EXTINF:-1,Canal Brasil FHD
-http://tbsrv.me:8880/danselmo/11985778779/74608
-#EXTINF:-1,Canal Brasil HD
-http://tbsrv.me:8880/danselmo/11985778779/70011
-#EXTINF:-1,Canal Brasil SD
-http://tbsrv.me:8880/danselmo/11985778779/70012
-#EXTINF:-1,Canal do Boi FHD
-http://tbsrv.me:8880/danselmo/11985778779/141959
-#EXTINF:-1,Canal do Boi SD
-http://tbsrv.me:8880/danselmo/11985778779/111025
-#EXTINF:-1,Canal Rural FHD
-http://tbsrv.me:8880/danselmo/11985778779/111081
-#EXTINF:-1,Canal Sony FHD
-http://tbsrv.me:8880/danselmo/11985778779/69556
-#EXTINF:-1,Canal Sony HD
-http://tbsrv.me:8880/danselmo/11985778779/70014
-#EXTINF:-1,Canal Sony SD
-http://tbsrv.me:8880/danselmo/11985778779/69630
-#EXTINF:-1,Canção Nova FHD
-http://tbsrv.me:8880/danselmo/11985778779/142100
-#EXTINF:-1,Canção Nova HD²
-http://tbsrv.me:8880/danselmo/11985778779/70082
-#EXTINF:-1,Canção Nova SD²
-http://tbsrv.me:8880/danselmo/11985778779/142101
-#EXTINF:-1,Cartoon Network FHD
-http://tbsrv.me:8880/danselmo/11985778779/69487
-#EXTINF:-1,Cartoon Network HD
-http://tbsrv.me:8880/danselmo/11985778779/69488
-#EXTINF:-1,Cartoon Network SD
-http://tbsrv.me:8880/danselmo/11985778779/69489
-#EXTINF:-1,Chef TV FHD
-http://tbsrv.me:8880/danselmo/11985778779/92201
-#EXTINF:-1,Chef TV HD
-http://tbsrv.me:8880/danselmo/11985778779/92202
-#EXTINF:-1,Chef TV SD
-http://tbsrv.me:8880/danselmo/11985778779/92203
-#EXTINF:-1,Cinemax FHD
-http://tbsrv.me:8880/danselmo/11985778779/69552
-#EXTINF:-1,Cinemax HD
-http://tbsrv.me:8880/danselmo/11985778779/70015
-#EXTINF:-1,Cinemax SD
-http://tbsrv.me:8880/danselmo/11985778779/70016
-#EXTINF:-1,CNN Brasil FHD
-http://tbsrv.me:8880/danselmo/11985778779/70089
-#EXTINF:-1,CNN Brasil HD
-http://tbsrv.me:8880/danselmo/11985778779/70090
-#EXTINF:-1,CNN Brasil SD
-http://tbsrv.me:8880/danselmo/11985778779/70146
-#EXTINF:-1,CNN Espanhol FHD
-http://tbsrv.me:8880/danselmo/11985778779/85636
-#EXTINF:-1,CNN Espanhol HD
-http://tbsrv.me:8880/danselmo/11985778779/85637
-#EXTINF:-1,CNN Espanhol SD
-http://tbsrv.me:8880/danselmo/11985778779/972
-#EXTINF:-1,CNN Internacional FHD
-http://tbsrv.me:8880/danselmo/11985778779/92204
-#EXTINF:-1,CNN Internacional HD
-http://tbsrv.me:8880/danselmo/11985778779/92205
-#EXTINF:-1,CNN Internacional SD
-http://tbsrv.me:8880/danselmo/11985778779/69465
-#EXTINF:-1,Combate FHD
-http://tbsrv.me:8880/danselmo/11985778779/69788
-#EXTINF:-1,Combate HD
-http://tbsrv.me:8880/danselmo/11985778779/69749
-#EXTINF:-1,Combate SD
-http://tbsrv.me:8880/danselmo/11985778779/69725
-#EXTINF:-1,Comedy Central FHD
-http://tbsrv.me:8880/danselmo/11985778779/841
-#EXTINF:-1,Comedy Central HD
-http://tbsrv.me:8880/danselmo/11985778779/74609
-#EXTINF:-1,Comedy Central SD
-http://tbsrv.me:8880/danselmo/11985778779/69765
-#EXTINF:-1,Conmebol - Copa Libertadores 1 FHD
-http://tbsrv.me:8880/danselmo/11985778779/70277
-#EXTINF:-1,Conmebol - Copa Libertadores 2 FHD
-http://tbsrv.me:8880/danselmo/11985778779/86728
-#EXTINF:-1,Conmebol - Copa Libertadores 3 FHD
-http://tbsrv.me:8880/danselmo/11985778779/86729
-#EXTINF:-1,Conmebol - Copa Libertadores 3 HD
-http://tbsrv.me:8880/danselmo/11985778779/92777
-#EXTINF:-1,Conmebol - Copa Libertadores 4 FHD
-http://tbsrv.me:8880/danselmo/11985778779/86730
-#EXTINF:-1,Conmebol - Copa Libertadores 4 HD
-http://tbsrv.me:8880/danselmo/11985778779/92778
-#EXTINF:-1,Conmebol TV FHD (JOGO 1)
-http://tbsrv.me:8880/danselmo/11985778779/101633
-#EXTINF:-1,Conmebol TV FHD (JOGO 2)
-http://tbsrv.me:8880/danselmo/11985778779/101634
-#EXTINF:-1,Conmebol TV FHD (JOGO 3)
-http://tbsrv.me:8880/danselmo/11985778779/101635
-#EXTINF:-1,Conmebol TV HD (JOGO 1)
-http://tbsrv.me:8880/danselmo/11985778779/101636
-#EXTINF:-1,Conmebol TV HD (JOGO 2)
-http://tbsrv.me:8880/danselmo/11985778779/101637
-#EXTINF:-1,Conmebol TV HD (JOGO 3)
-http://tbsrv.me:8880/danselmo/11985778779/101638
-#EXTINF:-1,Copa Catarinense 1
-http://tbsrv.me:8880/danselmo/11985778779/820
-#EXTINF:-1,Copa Catarinense 2
-http://tbsrv.me:8880/danselmo/11985778779/821
-#EXTINF:-1,Copa Catarinense 3
-http://tbsrv.me:8880/danselmo/11985778779/822
-#EXTINF:-1,Copa do Nordeste 1
-http://tbsrv.me:8880/danselmo/11985778779/818
-#EXTINF:-1,Copa do Nordeste 2
-http://tbsrv.me:8880/danselmo/11985778779/76192
-#EXTINF:-1,Copa do Nordeste 3
-http://tbsrv.me:8880/danselmo/11985778779/76193
-#EXTINF:-1,Copa do Nordeste 4
-http://tbsrv.me:8880/danselmo/11985778779/76194
-#EXTINF:-1,Curta! FHD
-http://tbsrv.me:8880/danselmo/11985778779/92779
-#EXTINF:-1,Curta! HD
-http://tbsrv.me:8880/danselmo/11985778779/611
-#EXTINF:-1,Curta! SD
-http://tbsrv.me:8880/danselmo/11985778779/127
-#EXTINF:-1,JOGOS ONDEMAND 1
-http://tbsrv.me:8880/danselmo/11985778779/101643
-#EXTINF:-1,JOGOS ONDEMAND 2
-http://tbsrv.me:8880/danselmo/11985778779/101644
-#EXTINF:-1,JOGOS ONDEMAND 3
-http://tbsrv.me:8880/danselmo/11985778779/101645
-#EXTINF:-1,JOGOS ONDEMAND 4
-http://tbsrv.me:8880/danselmo/11985778779/101646
-#EXTINF:-1,JOGOS ONDEMAND 5
-http://tbsrv.me:8880/danselmo/11985778779/223
-#EXTINF:-1,Discovery Channel FHD
-http://tbsrv.me:8880/danselmo/11985778779/69524
-#EXTINF:-1,Discovery Channel HD
-http://tbsrv.me:8880/danselmo/11985778779/69525
-#EXTINF:-1,Discovery Channel SD
-http://tbsrv.me:8880/danselmo/11985778779/69526
-#EXTINF:-1,Discovery H&H FHD
-http://tbsrv.me:8880/danselmo/11985778779/69527
-#EXTINF:-1,Discovery H&H HD
-http://tbsrv.me:8880/danselmo/11985778779/69528
-#EXTINF:-1,Discovery H&H SD
-http://tbsrv.me:8880/danselmo/11985778779/69529
-#EXTINF:-1,Discovery HGTV FHD
-http://tbsrv.me:8880/danselmo/11985778779/92780
-#EXTINF:-1,Discovery HGTV HD
-http://tbsrv.me:8880/danselmo/11985778779/614
-#EXTINF:-1,Discovery HGTV SD
-http://tbsrv.me:8880/danselmo/11985778779/299
-#EXTINF:-1,Discovery Kids FHD
-http://tbsrv.me:8880/danselmo/11985778779/69490
-#EXTINF:-1,Discovery Kids HD
-http://tbsrv.me:8880/danselmo/11985778779/69491
-#EXTINF:-1,Discovery Kids SD
-http://tbsrv.me:8880/danselmo/11985778779/69492
-#EXTINF:-1,Discovery Science FHD
-http://tbsrv.me:8880/danselmo/11985778779/69530
-#EXTINF:-1,Discovery Science HD
-http://tbsrv.me:8880/danselmo/11985778779/69531
-#EXTINF:-1,Discovery Science SD
-http://tbsrv.me:8880/danselmo/11985778779/69532
-#EXTINF:-1,Discovery Theater FHD
-http://tbsrv.me:8880/danselmo/11985778779/69533
-#EXTINF:-1,Discovery Theater HD
-http://tbsrv.me:8880/danselmo/11985778779/69537
-#EXTINF:-1,Discovery Theater SD
-http://tbsrv.me:8880/danselmo/11985778779/69534
-#EXTINF:-1,Discovery Turbo FHD
-http://tbsrv.me:8880/danselmo/11985778779/69566
-#EXTINF:-1,Discovery Turbo HD
-http://tbsrv.me:8880/danselmo/11985778779/69567
-#EXTINF:-1,Discovery Turbo SD
-http://tbsrv.me:8880/danselmo/11985778779/621
-#EXTINF:-1,Discovery World FHD
-http://tbsrv.me:8880/danselmo/11985778779/69568
-#EXTINF:-1,Discovery World HD
-http://tbsrv.me:8880/danselmo/11985778779/69569
-#EXTINF:-1,Discovery World SD
-http://tbsrv.me:8880/danselmo/11985778779/69570
-#EXTINF:-1,Disney Channel FHD
-http://tbsrv.me:8880/danselmo/11985778779/69493
-#EXTINF:-1,Disney Channel HD
-http://tbsrv.me:8880/danselmo/11985778779/69494
-#EXTINF:-1,Disney Channel SD
-http://tbsrv.me:8880/danselmo/11985778779/69495
-#EXTINF:-1,Disney Junior FHD
-http://tbsrv.me:8880/danselmo/11985778779/69496
-#EXTINF:-1,Disney Junior HD
-http://tbsrv.me:8880/danselmo/11985778779/69497
-#EXTINF:-1,Disney Junior SD
-http://tbsrv.me:8880/danselmo/11985778779/69498
-#EXTINF:-1,Disney XD FHD
-http://tbsrv.me:8880/danselmo/11985778779/69499
-#EXTINF:-1,Disney XD HD
-http://tbsrv.me:8880/danselmo/11985778779/69500
-#EXTINF:-1,Disney XD SD
-http://tbsrv.me:8880/danselmo/11985778779/69501
-#EXTINF:-1,Dog TV HD
-http://tbsrv.me:8880/danselmo/11985778779/111024
-#EXTINF:-1,E! FHD
-http://tbsrv.me:8880/danselmo/11985778779/74610
-#EXTINF:-1,E! HD
-http://tbsrv.me:8880/danselmo/11985778779/919
-#EXTINF:-1,E! SD
-http://tbsrv.me:8880/danselmo/11985778779/920
-#EXTINF:-1,Eleven Sports 01
-http://tbsrv.me:8880/danselmo/11985778779/133518
-#EXTINF:-1,Eleven Sports 02
-http://tbsrv.me:8880/danselmo/11985778779/133519
-#EXTINF:-1,Eleven Sports 03
-http://tbsrv.me:8880/danselmo/11985778779/133520
-#EXTINF:-1,Eleven Sports 04
-http://tbsrv.me:8880/danselmo/11985778779/133521
-#EXTINF:-1,Eleven Sports 05
-http://tbsrv.me:8880/danselmo/11985778779/133522
-#EXTINF:-1,ESPN 3 FHD
-http://tbsrv.me:8880/danselmo/11985778779/70046
-#EXTINF:-1,ESPN 3 HD
-http://tbsrv.me:8880/danselmo/11985778779/70047
-#EXTINF:-1,ESPN 3 SD
-http://tbsrv.me:8880/danselmo/11985778779/70048
-#EXTINF:-1,ESPN FHD
-http://tbsrv.me:8880/danselmo/11985778779/846
-#EXTINF:-1,ESPN HD
-http://tbsrv.me:8880/danselmo/11985778779/239
-#EXTINF:-1,ESPN SD
-http://tbsrv.me:8880/danselmo/11985778779/70050
-#EXTINF:-1,ESPN Extra FHD
-http://tbsrv.me:8880/danselmo/11985778779/74606
-#EXTINF:-1,ESPN Extra HD
-http://tbsrv.me:8880/danselmo/11985778779/70052
-#EXTINF:-1,ESPN Extra SD
-http://tbsrv.me:8880/danselmo/11985778779/70053
-#EXTINF:-1,ESPN 2 FHD
-http://tbsrv.me:8880/danselmo/11985778779/70054
-#EXTINF:-1,ESPN 2 HD
-http://tbsrv.me:8880/danselmo/11985778779/70055
-#EXTINF:-1,ESPN 2 SD
-http://tbsrv.me:8880/danselmo/11985778779/70056
-#EXTINF:-1,FashionTV HD
-http://tbsrv.me:8880/danselmo/11985778779/111085
-#EXTINF:-1,Fish TV FHD
-http://tbsrv.me:8880/danselmo/11985778779/74611
-#EXTINF:-1,Fish TV HD
-http://tbsrv.me:8880/danselmo/11985778779/69767
-#EXTINF:-1,Fish TV SD
-http://tbsrv.me:8880/danselmo/11985778779/69768
-#EXTINF:-1,FlaTV 1
-http://tbsrv.me:8880/danselmo/11985778779/69957
-#EXTINF:-1,Flu TV 2
-http://tbsrv.me:8880/danselmo/11985778779/76352
-#EXTINF:-1,Food Network FHD
-http://tbsrv.me:8880/danselmo/11985778779/848
-#EXTINF:-1,Food Network HD
-http://tbsrv.me:8880/danselmo/11985778779/69770
-#EXTINF:-1,Food Network SD
-http://tbsrv.me:8880/danselmo/11985778779/69771
-#EXTINF:-1,Star Channel FHD
-http://tbsrv.me:8880/danselmo/11985778779/69536
-#EXTINF:-1,Star Channel HD
-http://tbsrv.me:8880/danselmo/11985778779/69669
-#EXTINF:-1,Star Channel SD
-http://tbsrv.me:8880/danselmo/11985778779/69626
-#EXTINF:-1,Star Life FHD
-http://tbsrv.me:8880/danselmo/11985778779/69538
-#EXTINF:-1,Star Life HD
-http://tbsrv.me:8880/danselmo/11985778779/69647
-#EXTINF:-1,Star Life SD
-http://tbsrv.me:8880/danselmo/11985778779/69772
-#EXTINF:-1,Fox News FHD
-http://tbsrv.me:8880/danselmo/11985778779/92781
-#EXTINF:-1,Fox News HD
-http://tbsrv.me:8880/danselmo/11985778779/92782
-#EXTINF:-1,Fox News SD
-http://tbsrv.me:8880/danselmo/11985778779/92783
-#EXTINF:-1,Star Hits FHD
-http://tbsrv.me:8880/danselmo/11985778779/69539
-#EXTINF:-1,Star Hits HD
-http://tbsrv.me:8880/danselmo/11985778779/69670
-#EXTINF:-1,Star Hits SD
-http://tbsrv.me:8880/danselmo/11985778779/69645
-#EXTINF:-1,Star Hits 2 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69540
-#EXTINF:-1,Star Hits 2 HD
-http://tbsrv.me:8880/danselmo/11985778779/69648
-#EXTINF:-1,Star Hits 2 SD
-http://tbsrv.me:8880/danselmo/11985778779/69644
-#EXTINF:-1,Fox Sports 2 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69715
-#EXTINF:-1,Fox Sports 2 HD
-http://tbsrv.me:8880/danselmo/11985778779/69748
-#EXTINF:-1,Fox Sports 2 SD
-http://tbsrv.me:8880/danselmo/11985778779/266
-#EXTINF:-1,ESPN 4 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69714
-#EXTINF:-1,ESPN 4 HD
-http://tbsrv.me:8880/danselmo/11985778779/69746
-#EXTINF:-1,ESPN 4 SD
-http://tbsrv.me:8880/danselmo/11985778779/70069
-#EXTINF:-1,Furacão TV
-http://tbsrv.me:8880/danselmo/11985778779/133592
-#EXTINF:-1,Futura FHD
-http://tbsrv.me:8880/danselmo/11985778779/70148
-#EXTINF:-1,Futura HD
-http://tbsrv.me:8880/danselmo/11985778779/70159
-#EXTINF:-1,FX FHD
-http://tbsrv.me:8880/danselmo/11985778779/69553
-#EXTINF:-1,FX HD
-http://tbsrv.me:8880/danselmo/11985778779/69679
-#EXTINF:-1,FX SD
-http://tbsrv.me:8880/danselmo/11985778779/69583
-#EXTINF:-1,Gazeta SP FHD
-http://tbsrv.me:8880/danselmo/11985778779/141954
-#EXTINF:-1,Gazeta SP HD
-http://tbsrv.me:8880/danselmo/11985778779/141926
-#EXTINF:-1,Gazeta SP SD
-http://tbsrv.me:8880/danselmo/11985778779/141927
-#EXTINF:-1,Globo SP FHD
-http://tbsrv.me:8880/danselmo/11985778779/69634
-#EXTINF:-1,Globo SP FHD²
-http://tbsrv.me:8880/danselmo/11985778779/101879
-#EXTINF:-1,Globo SP HD
-http://tbsrv.me:8880/danselmo/11985778779/69635
-#EXTINF:-1,Globo SP HD²
-http://tbsrv.me:8880/danselmo/11985778779/101880
-#EXTINF:-1,Globo SP SD
-http://tbsrv.me:8880/danselmo/11985778779/69636
-#EXTINF:-1,Globo SP SD²
-http://tbsrv.me:8880/danselmo/11985778779/101881
-#EXTINF:-1,Globo RJ FHD
-http://tbsrv.me:8880/danselmo/11985778779/69621
-#EXTINF:-1,Globo RJ FHD²
-http://tbsrv.me:8880/danselmo/11985778779/101871
-#EXTINF:-1,Globo RJ HD
-http://tbsrv.me:8880/danselmo/11985778779/69631
-#EXTINF:-1,Globo RJ HD²
-http://tbsrv.me:8880/danselmo/11985778779/101872
-#EXTINF:-1,Globo RJ SD
-http://tbsrv.me:8880/danselmo/11985778779/69623
-#EXTINF:-1,Globo RJ SD²
-http://tbsrv.me:8880/danselmo/11985778779/101873
-#EXTINF:-1,Globo Anhanguera Goiania HD
-http://tbsrv.me:8880/danselmo/11985778779/101846
-#EXTINF:-1,Globo Belem HD
-http://tbsrv.me:8880/danselmo/11985778779/142012
-#EXTINF:-1,Globo Belem SD
-http://tbsrv.me:8880/danselmo/11985778779/142013
-#EXTINF:-1,Globo Brasilia FHD
-http://tbsrv.me:8880/danselmo/11985778779/70636
-#EXTINF:-1,Globo Brasilia HD
-http://tbsrv.me:8880/danselmo/11985778779/69594
-#EXTINF:-1,Globo Brasilia HD²
-http://tbsrv.me:8880/danselmo/11985778779/142015
-#EXTINF:-1,Globo Brasilia SD
-http://tbsrv.me:8880/danselmo/11985778779/69595
-#EXTINF:-1,Globo Brasilia SD²
-http://tbsrv.me:8880/danselmo/11985778779/101847
-#EXTINF:-1,Globo Ceará SD
-http://tbsrv.me:8880/danselmo/11985778779/142034
-#EXTINF:-1,Globo Centro América Cuiaba SD²
-http://tbsrv.me:8880/danselmo/11985778779/101848
-#EXTINF:-1,Globo EPTV Campinas FHD
-http://tbsrv.me:8880/danselmo/11985778779/70637
-#EXTINF:-1,Globo EPTV Campinas FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142021
-#EXTINF:-1,Globo EPTV Campinas HD
-http://tbsrv.me:8880/danselmo/11985778779/547
-#EXTINF:-1,Globo EPTV Campinas HD²
-http://tbsrv.me:8880/danselmo/11985778779/101850
-#EXTINF:-1,Globo EPTV Campinas SD
-http://tbsrv.me:8880/danselmo/11985778779/69596
-#EXTINF:-1,Globo EPTV Campinas SD²
-http://tbsrv.me:8880/danselmo/11985778779/101851
-#EXTINF:-1,Globo EPTV Ribeirao Preto HD
-http://tbsrv.me:8880/danselmo/11985778779/111021
-#EXTINF:-1,Globo EPTV Ribeirao Preto SD²
-http://tbsrv.me:8880/danselmo/11985778779/101852
-#EXTINF:-1,Globo EPTV Ribeirão Preto SD
-http://tbsrv.me:8880/danselmo/11985778779/69597
-#EXTINF:-1,Globo EPTV Sao Carlos SD
-http://tbsrv.me:8880/danselmo/11985778779/101853
-#EXTINF:-1,Globo EPTV Sul de Minas FHD
-http://tbsrv.me:8880/danselmo/11985778779/550
-#EXTINF:-1,Globo EPTV Sul de Minas FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142016
-#EXTINF:-1,Globo EPTV Sul de Minas HD
-http://tbsrv.me:8880/danselmo/11985778779/551
-#EXTINF:-1,Globo EPTV Sul de Minas HD²
-http://tbsrv.me:8880/danselmo/11985778779/142017
-#EXTINF:-1,Globo EPTV Sul de Minas SD
-http://tbsrv.me:8880/danselmo/11985778779/84245
-#EXTINF:-1,Globo Gazeta Alagoas FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142018
-#EXTINF:-1,Globo INTER do Vale FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142059
-#EXTINF:-1,Globo INTER TV Cabugi RN HD
-http://tbsrv.me:8880/danselmo/11985778779/101854
-#EXTINF:-1,Globo Inter TV Cabugi RN SD
-http://tbsrv.me:8880/danselmo/11985778779/69599
-#EXTINF:-1,Globo Inter TV dos Vales FHD
-http://tbsrv.me:8880/danselmo/11985778779/92865
-#EXTINF:-1,Globo INTER TV dos Vales HD²
-http://tbsrv.me:8880/danselmo/11985778779/142036
-#EXTINF:-1,Globo Inter TV Grande Minas FHD
-http://tbsrv.me:8880/danselmo/11985778779/92863
-#EXTINF:-1,Globo Inter TV Grande Minas HD
-http://tbsrv.me:8880/danselmo/11985778779/92864
-#EXTINF:-1,Globo INTER TV Grande Minas HD²
-http://tbsrv.me:8880/danselmo/11985778779/142038
-#EXTINF:-1,Globo Inter TV Grande Minas SD
-http://tbsrv.me:8880/danselmo/11985778779/92867
-#EXTINF:-1,Globo Inter TV Grande Minas SD²
-http://tbsrv.me:8880/danselmo/11985778779/142037
-#EXTINF:-1,Globo InterTV Alto Litoral HD²
-http://tbsrv.me:8880/danselmo/11985778779/101856
-#EXTINF:-1,Globo Juazeiro Bahia FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142050
-#EXTINF:-1,Globo Juazeiro Bahia HD²
-http://tbsrv.me:8880/danselmo/11985778779/142049
-#EXTINF:-1,Globo Manaus HD²
-http://tbsrv.me:8880/danselmo/11985778779/142014
-#EXTINF:-1,Globo Minas FHD
-http://tbsrv.me:8880/danselmo/11985778779/69600
-#EXTINF:-1,Globo Minas FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142019
-#EXTINF:-1,Globo Minas HD
-http://tbsrv.me:8880/danselmo/11985778779/69601
-#EXTINF:-1,Globo Minas HD²
-http://tbsrv.me:8880/danselmo/11985778779/101858
-#EXTINF:-1,Globo Minas SD
-http://tbsrv.me:8880/danselmo/11985778779/69603
-#EXTINF:-1,Globo Minas SD²
-http://tbsrv.me:8880/danselmo/11985778779/101859
-#EXTINF:-1,Globo Natal HD²
-http://tbsrv.me:8880/danselmo/11985778779/142041
-#EXTINF:-1,Globo Natal SD²
-http://tbsrv.me:8880/danselmo/11985778779/142040
-#EXTINF:-1,Globo News FHD
-http://tbsrv.me:8880/danselmo/11985778779/69466
-#EXTINF:-1,Globo News HD
-http://tbsrv.me:8880/danselmo/11985778779/69467
-#EXTINF:-1,Globo News SD
-http://tbsrv.me:8880/danselmo/11985778779/70147
-#EXTINF:-1,Globo Nordeste FHD
-http://tbsrv.me:8880/danselmo/11985778779/69604
-#EXTINF:-1,Globo Nordeste FHD²
-http://tbsrv.me:8880/danselmo/11985778779/101860
-#EXTINF:-1,Globo Nordeste HD
-http://tbsrv.me:8880/danselmo/11985778779/69606
-#EXTINF:-1,Globo Nordeste HD²
-http://tbsrv.me:8880/danselmo/11985778779/101861
-#EXTINF:-1,Globo Nordeste SD
-http://tbsrv.me:8880/danselmo/11985778779/69605
-#EXTINF:-1,Globo Nordeste SD²
-http://tbsrv.me:8880/danselmo/11985778779/101862
-#EXTINF:-1,Globo NSC Blumenau HD²
-http://tbsrv.me:8880/danselmo/11985778779/101863
-#EXTINF:-1,Globo NSC Chapeco HD²
-http://tbsrv.me:8880/danselmo/11985778779/113605
-#EXTINF:-1,Globo NSC Florianopolis FHD
-http://tbsrv.me:8880/danselmo/11985778779/69611
-#EXTINF:-1,Globo NSC Florianopolis HD
-http://tbsrv.me:8880/danselmo/11985778779/69615
-#EXTINF:-1,Globo NSC Florianopolis SD
-http://tbsrv.me:8880/danselmo/11985778779/569
-#EXTINF:-1,Globo NSC Florianópolis HD²
-http://tbsrv.me:8880/danselmo/11985778779/101864
-#EXTINF:-1,Globo NSC Joinville HD²
-http://tbsrv.me:8880/danselmo/11985778779/101865
-#EXTINF:-1,Globo NSC TV Florianopolis FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142030
-#EXTINF:-1,Globo NSC TV Joinville FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142042
-#EXTINF:-1,Globo RBS Caxias FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142043
-#EXTINF:-1,Globo RBS Pelotas FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142045
-#EXTINF:-1,Globo RBS Porto Alegre HD²
-http://tbsrv.me:8880/danselmo/11985778779/101867
-#EXTINF:-1,Globo RBS Porto Alegre SD²
-http://tbsrv.me:8880/danselmo/11985778779/101868
-#EXTINF:-1,Globo RBS Santa Maria HD²
-http://tbsrv.me:8880/danselmo/11985778779/113604
-#EXTINF:-1,Globo RBS TV Caxias do Sul HD²
-http://tbsrv.me:8880/danselmo/11985778779/142044
-#EXTINF:-1,Globo RBS TV Pelotas HD²
-http://tbsrv.me:8880/danselmo/11985778779/101869
-#EXTINF:-1,Globo RBS TV Porto Alegre FHD
-http://tbsrv.me:8880/danselmo/11985778779/69616
-#EXTINF:-1,Globo RBS TV Porto Alegre FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142031
-#EXTINF:-1,Globo RBS TV Porto Alegre HD
-http://tbsrv.me:8880/danselmo/11985778779/69617
-#EXTINF:-1,Globo RBS TV Porto Alegre SD
-http://tbsrv.me:8880/danselmo/11985778779/69618
-#EXTINF:-1,Globo Recife FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142046
-#EXTINF:-1,Globo Recife HD²
-http://tbsrv.me:8880/danselmo/11985778779/128698
-#EXTINF:-1,Globo Recife SD²
-http://tbsrv.me:8880/danselmo/11985778779/128697
-#EXTINF:-1,Globo Rede Amazonica FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142048
-#EXTINF:-1,Globo Rede Amazonica HD²
-http://tbsrv.me:8880/danselmo/11985778779/101870
-#EXTINF:-1,Globo Rede Amazonica Macapa HD²
-http://tbsrv.me:8880/danselmo/11985778779/113606
-#EXTINF:-1,Globo Rede Amazônica Porto Velho HD²
-http://tbsrv.me:8880/danselmo/11985778779/111017
-#EXTINF:-1,Globo Rede Amazônica Porto Velho SD²
-http://tbsrv.me:8880/danselmo/11985778779/111018
-#EXTINF:-1,Globo Regiao Serrana RJ FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142057
-#EXTINF:-1,Globo Regiao Serrana RJ HD²
-http://tbsrv.me:8880/danselmo/11985778779/142039
-#EXTINF:-1,Globo RPC Cascavel FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142023
-#EXTINF:-1,Globo RPC Cascavel HD²
-http://tbsrv.me:8880/danselmo/11985778779/101874
-#EXTINF:-1,Globo RPC Curitiba FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142022
-#EXTINF:-1,Globo RPC Curitiba HD²
-http://tbsrv.me:8880/danselmo/11985778779/101875
-#EXTINF:-1,Globo RPC Curitiba SD²
-http://tbsrv.me:8880/danselmo/11985778779/101876
-#EXTINF:-1,Globo RPC Foz do Iguacu FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142071
-#EXTINF:-1,Globo RPC Maringa SD²
-http://tbsrv.me:8880/danselmo/11985778779/101877
-#EXTINF:-1,Globo RPC Paranaense FHD
-http://tbsrv.me:8880/danselmo/11985778779/92888
-#EXTINF:-1,Globo RPC Paranaense HD
-http://tbsrv.me:8880/danselmo/11985778779/575
-#EXTINF:-1,Globo RPC Paranaense SD
-http://tbsrv.me:8880/danselmo/11985778779/92889
-#EXTINF:-1,Globo RPC Paranavai FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142024
-#EXTINF:-1,Globo RPC Paranavai HD²
-http://tbsrv.me:8880/danselmo/11985778779/142025
-#EXTINF:-1,Globo RPC Paranavaí SD²
-http://tbsrv.me:8880/danselmo/11985778779/101878
-#EXTINF:-1,Globo RPC TV Curitiba SD
-http://tbsrv.me:8880/danselmo/11985778779/577
-#EXTINF:-1,Globo RPC TV Foz do Iguacu HD²
-http://tbsrv.me:8880/danselmo/11985778779/113609
-#EXTINF:-1,Globo RPC TV Ponta Grossa HD²
-http://tbsrv.me:8880/danselmo/11985778779/113610
-#EXTINF:-1,Globo RPC TV Ponta Grossa SD²
-http://tbsrv.me:8880/danselmo/11985778779/113611
-#EXTINF:-1,Globo Salvador BA FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142010
-#EXTINF:-1,Globo Salvador BA HD²
-http://tbsrv.me:8880/danselmo/11985778779/142011
-#EXTINF:-1,Globo Tribuna Santos HD²
-http://tbsrv.me:8880/danselmo/11985778779/142026
-#EXTINF:-1,Globo TV Anhanguera FHD
-http://tbsrv.me:8880/danselmo/11985778779/92900
-#EXTINF:-1,Globo TV Anhanguera FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142027
-#EXTINF:-1,Globo TV Anhanguera Goiania FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142028
-#EXTINF:-1,Globo TV Anhanguera HD
-http://tbsrv.me:8880/danselmo/11985778779/92901
-#EXTINF:-1,Globo TV Anhanguera SD
-http://tbsrv.me:8880/danselmo/11985778779/583
-#EXTINF:-1,Globo TV Asa Branca FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142072
-#EXTINF:-1,Globo TV Bahia FHD
-http://tbsrv.me:8880/danselmo/11985778779/34
-#EXTINF:-1,Globo TV Bahia FHD²
-http://tbsrv.me:8880/danselmo/11985778779/101884
-#EXTINF:-1,Globo TV Bahia HD
-http://tbsrv.me:8880/danselmo/11985778779/70647
-#EXTINF:-1,Globo TV Bahia HD²
-http://tbsrv.me:8880/danselmo/11985778779/101885
-#EXTINF:-1,Globo TV Bahia SD
-http://tbsrv.me:8880/danselmo/11985778779/69641
-#EXTINF:-1,Globo TV Bahia SD²
-http://tbsrv.me:8880/danselmo/11985778779/101886
-#EXTINF:-1,Globo TV C. América FHD
-http://tbsrv.me:8880/danselmo/11985778779/92902
-#EXTINF:-1,Globo TV C. América HD
-http://tbsrv.me:8880/danselmo/11985778779/92903
-#EXTINF:-1,Globo TV C. América SD
-http://tbsrv.me:8880/danselmo/11985778779/587
-#EXTINF:-1,Globo TV Cabo Branco FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142069
-#EXTINF:-1,Globo TV Cabo Branco HD
-http://tbsrv.me:8880/danselmo/11985778779/75141
-#EXTINF:-1,Globo TV Cabo Branco HD²
-http://tbsrv.me:8880/danselmo/11985778779/101887
-#EXTINF:-1,Globo TV Cabo Branco SD²
-http://tbsrv.me:8880/danselmo/11985778779/142070
-#EXTINF:-1,Globo TV Cabugi Interior SD²
-http://tbsrv.me:8880/danselmo/11985778779/142035
-#EXTINF:-1,Globo TV Caruaru (Asa Branca) HD²
-http://tbsrv.me:8880/danselmo/11985778779/101888
-#EXTINF:-1,Globo TV Centro America Cuiaba HD²
-http://tbsrv.me:8880/danselmo/11985778779/142051
-#EXTINF:-1,Globo TV Clube Teresina HD²
-http://tbsrv.me:8880/danselmo/11985778779/113612
-#EXTINF:-1,Globo TV Clube Teresina HD²
-http://tbsrv.me:8880/danselmo/11985778779/113613
-#EXTINF:-1,Globo TV Diário FHD
-http://tbsrv.me:8880/danselmo/11985778779/92912
-#EXTINF:-1,Globo TV Diário HD
-http://tbsrv.me:8880/danselmo/11985778779/92913
-#EXTINF:-1,Globo TV Diário SD
-http://tbsrv.me:8880/danselmo/11985778779/92914
-#EXTINF:-1,Globo TV Gazeta Alagoas FHD
-http://tbsrv.me:8880/danselmo/11985778779/590
-#EXTINF:-1,Globo TV Gazeta Alagoas SD
-http://tbsrv.me:8880/danselmo/11985778779/75143
-#EXTINF:-1,Globo TV Gazeta de Alagoas HD²
-http://tbsrv.me:8880/danselmo/11985778779/142052
-#EXTINF:-1,Globo TV Gazeta Norte HD
-http://tbsrv.me:8880/danselmo/11985778779/101891
-#EXTINF:-1,Globo TV Gazeta Sul ES HD
-http://tbsrv.me:8880/danselmo/11985778779/101892
-#EXTINF:-1,Globo TV Gazeta Sul ES SD
-http://tbsrv.me:8880/danselmo/11985778779/75146
-#EXTINF:-1,Globo TV Gazeta Sul HD²
-http://tbsrv.me:8880/danselmo/11985778779/142053
-#EXTINF:-1,Globo TV Gazeta Vitória FHD
-http://tbsrv.me:8880/danselmo/11985778779/75144
-#EXTINF:-1,Globo TV Gazeta Vitória HD²
-http://tbsrv.me:8880/danselmo/11985778779/101893
-#EXTINF:-1,Globo TV Gazeta Vitória SD
-http://tbsrv.me:8880/danselmo/11985778779/70645
-#EXTINF:-1,Globo TV Grande Rio FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142054
-#EXTINF:-1,Globo TV Integracao Juiz de Fora SD
-http://tbsrv.me:8880/danselmo/11985778779/113608
-#EXTINF:-1,Globo TV Integracao MG FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142075
-#EXTINF:-1,Globo TV Integracao MG HD²
-http://tbsrv.me:8880/danselmo/11985778779/142055
-#EXTINF:-1,Globo TV Itapetininga SD²
-http://tbsrv.me:8880/danselmo/11985778779/101896
-#EXTINF:-1,Globo TV Liberal Belem FHD
-http://tbsrv.me:8880/danselmo/11985778779/92866
-#EXTINF:-1,Globo TV Liberal Belem FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142032
-#EXTINF:-1,Globo TV Liberal Belem HD
-http://tbsrv.me:8880/danselmo/11985778779/974
-#EXTINF:-1,Globo TV Liberal Belem HD²
-http://tbsrv.me:8880/danselmo/11985778779/142056
-#EXTINF:-1,Globo TV Liberal Belem SD
-http://tbsrv.me:8880/danselmo/11985778779/69653
-#EXTINF:-1,Globo TV Liberal Belem SD²
-http://tbsrv.me:8880/danselmo/11985778779/101897
-#EXTINF:-1,Globo TV Mirante FHD
-http://tbsrv.me:8880/danselmo/11985778779/92915
-#EXTINF:-1,Globo TV Mirante HD
-http://tbsrv.me:8880/danselmo/11985778779/69658
-#EXTINF:-1,Globo TV Mirante HD²
-http://tbsrv.me:8880/danselmo/11985778779/101898
-#EXTINF:-1,Globo TV Mirante SD
-http://tbsrv.me:8880/danselmo/11985778779/92916
-#EXTINF:-1,Globo TV Morena FHD
-http://tbsrv.me:8880/danselmo/11985778779/596
-#EXTINF:-1,Globo TV Morena FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142060
-#EXTINF:-1,Globo TV Morena HD
-http://tbsrv.me:8880/danselmo/11985778779/92917
-#EXTINF:-1,Globo TV Morena HD²
-http://tbsrv.me:8880/danselmo/11985778779/101899
-#EXTINF:-1,Globo TV Morena Ponta Pora HD²
-http://tbsrv.me:8880/danselmo/11985778779/142068
-#EXTINF:-1,Globo TV Morena SD
-http://tbsrv.me:8880/danselmo/11985778779/92918
-#EXTINF:-1,Globo TV Rede Amazônica SD
-http://tbsrv.me:8880/danselmo/11985778779/75138
-#EXTINF:-1,Globo TV Rio Sul HD²
-http://tbsrv.me:8880/danselmo/11985778779/142029
-#EXTINF:-1,Globo TV Rio Sul SD²
-http://tbsrv.me:8880/danselmo/11985778779/113607
-#EXTINF:-1,Globo TV Santa Cruz BA HD²
-http://tbsrv.me:8880/danselmo/11985778779/142062
-#EXTINF:-1,Globo TV Sergipe FHD
-http://tbsrv.me:8880/danselmo/11985778779/92919
-#EXTINF:-1,Globo TV Sergipe HD
-http://tbsrv.me:8880/danselmo/11985778779/599
-#EXTINF:-1,Globo TV Sergipe HD²
-http://tbsrv.me:8880/danselmo/11985778779/101901
-#EXTINF:-1,Globo TV Sergipe HD²
-http://tbsrv.me:8880/danselmo/11985778779/142064
-#EXTINF:-1,Globo TV SJRP SD²
-http://tbsrv.me:8880/danselmo/11985778779/142067
-#EXTINF:-1,Globo TV Subae BA HD²
-http://tbsrv.me:8880/danselmo/11985778779/142063
-#EXTINF:-1,Globo TV Tem Bauru HD²
-http://tbsrv.me:8880/danselmo/11985778779/92921
-#EXTINF:-1,Globo TV Tem Bauru SD
-http://tbsrv.me:8880/danselmo/11985778779/69660
-#EXTINF:-1,Globo TV TEM Itapetininga HD²
-http://tbsrv.me:8880/danselmo/11985778779/142076
-#EXTINF:-1,Globo TV Tem Rio Preto SD²
-http://tbsrv.me:8880/danselmo/11985778779/101903
-#EXTINF:-1,Globo TV Tem Sorocaba HD²
-http://tbsrv.me:8880/danselmo/11985778779/101904
-#EXTINF:-1,Globo TV Tribuna Santos FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142058
-#EXTINF:-1,Globo TV Tribuna Santos SD
-http://tbsrv.me:8880/danselmo/11985778779/70470
-#EXTINF:-1,Globo TV Tribuna Santos SD²
-http://tbsrv.me:8880/danselmo/11985778779/101905
-#EXTINF:-1,Globo TV Vanguarda Sao Jose Dos Campos FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142073
-#EXTINF:-1,Globo TV Vanguarda Sao Jose dos Campos SD²
-http://tbsrv.me:8880/danselmo/11985778779/142033
-#EXTINF:-1,Globo TV Vanguarda São José Dos Campos HD²
-http://tbsrv.me:8880/danselmo/11985778779/101906
-#EXTINF:-1,Globo TV Vanguarda Taubaté HD
-http://tbsrv.me:8880/danselmo/11985778779/101907
-#EXTINF:-1,Globo TV Verdes Mares FHD
-http://tbsrv.me:8880/danselmo/11985778779/73743
-#EXTINF:-1,Globo TV Verdes Mares Fortaleza FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142065
-#EXTINF:-1,Globo TV Verdes Mares Fortaleza HD²
-http://tbsrv.me:8880/danselmo/11985778779/142066
-#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD²
-http://tbsrv.me:8880/danselmo/11985778779/101908
-#EXTINF:-1,Globo TV Verdes Mares HD
-http://tbsrv.me:8880/danselmo/11985778779/73744
-#EXTINF:-1,Globo TV Verdes Mares SD
-http://tbsrv.me:8880/danselmo/11985778779/69668
-#EXTINF:-1,Globo Vitoria FHD²
-http://tbsrv.me:8880/danselmo/11985778779/142047
-#EXTINF:-1,Globo Vitoria SD²
-http://tbsrv.me:8880/danselmo/11985778779/142020
-#EXTINF:-1,Gloob FHD
-http://tbsrv.me:8880/danselmo/11985778779/69502
-#EXTINF:-1,Gloob HD
-http://tbsrv.me:8880/danselmo/11985778779/69503
-#EXTINF:-1,Gloob SD
-http://tbsrv.me:8880/danselmo/11985778779/69504
-#EXTINF:-1,Gloobinho FHD
-http://tbsrv.me:8880/danselmo/11985778779/92922
-#EXTINF:-1,Gloobinho HD
-http://tbsrv.me:8880/danselmo/11985778779/92923
-#EXTINF:-1,Gloobinho SD
-http://tbsrv.me:8880/danselmo/11985778779/92924
-#EXTINF:-1,GNT FHD
-http://tbsrv.me:8880/danselmo/11985778779/74612
-#EXTINF:-1,GNT HD
-http://tbsrv.me:8880/danselmo/11985778779/146
-#EXTINF:-1,GNT SD
-http://tbsrv.me:8880/danselmo/11985778779/69774
-#EXTINF:-1,H2 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69571
-#EXTINF:-1,H2 HD
-http://tbsrv.me:8880/danselmo/11985778779/69572
-#EXTINF:-1,H2 SD
-http://tbsrv.me:8880/danselmo/11985778779/69573
-#EXTINF:-1,HBO FHD
-http://tbsrv.me:8880/danselmo/11985778779/69542
-#EXTINF:-1,HBO HD
-http://tbsrv.me:8880/danselmo/11985778779/69650
-#EXTINF:-1,HBO SD
-http://tbsrv.me:8880/danselmo/11985778779/69624
-#EXTINF:-1,HBO 2 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69541
-#EXTINF:-1,HBO 2 HD
-http://tbsrv.me:8880/danselmo/11985778779/69651
-#EXTINF:-1,HBO 2 SD
-http://tbsrv.me:8880/danselmo/11985778779/69612
-#EXTINF:-1,HBO Family FHD
-http://tbsrv.me:8880/danselmo/11985778779/69559
-#EXTINF:-1,HBO Family HD
-http://tbsrv.me:8880/danselmo/11985778779/69675
-#EXTINF:-1,HBO Family SD
-http://tbsrv.me:8880/danselmo/11985778779/69633
-#EXTINF:-1,HBO Mundi FHD
-http://tbsrv.me:8880/danselmo/11985778779/70017
-#EXTINF:-1,HBO Mundi HD
-http://tbsrv.me:8880/danselmo/11985778779/220
-#EXTINF:-1,HBO Mundi SD
-http://tbsrv.me:8880/danselmo/11985778779/70018
-#EXTINF:-1,HBO Plus FHD
-http://tbsrv.me:8880/danselmo/11985778779/69543
-#EXTINF:-1,HBO Plus HD
-http://tbsrv.me:8880/danselmo/11985778779/69652
-#EXTINF:-1,HBO Plus SD
-http://tbsrv.me:8880/danselmo/11985778779/69613
-#EXTINF:-1,HBO Pop FHD
-http://tbsrv.me:8880/danselmo/11985778779/70019
-#EXTINF:-1,HBO Pop HD
-http://tbsrv.me:8880/danselmo/11985778779/225
-#EXTINF:-1,HBO Pop SD
-http://tbsrv.me:8880/danselmo/11985778779/70020
-#EXTINF:-1,HBO Signature FHD
-http://tbsrv.me:8880/danselmo/11985778779/69554
-#EXTINF:-1,HBO Signature HD
-http://tbsrv.me:8880/danselmo/11985778779/69664
-#EXTINF:-1,HBO Signature SD
-http://tbsrv.me:8880/danselmo/11985778779/69632
-#EXTINF:-1,HBO Xtreme FHD
-http://tbsrv.me:8880/danselmo/11985778779/69544
-#EXTINF:-1,HBO Xtreme HD
-http://tbsrv.me:8880/danselmo/11985778779/69657
-#EXTINF:-1,HBO Xtreme SD
-http://tbsrv.me:8880/danselmo/11985778779/69627
-#EXTINF:-1,History Channel FHD
-http://tbsrv.me:8880/danselmo/11985778779/907
-#EXTINF:-1,History Channel HD
-http://tbsrv.me:8880/danselmo/11985778779/69589
-#EXTINF:-1,History Channel SD
-http://tbsrv.me:8880/danselmo/11985778779/69590
-#EXTINF:-1,i SAT FHD
-http://tbsrv.me:8880/danselmo/11985778779/128650
-#EXTINF:-1,i SAT HD
-http://tbsrv.me:8880/danselmo/11985778779/128651
-#EXTINF:-1,i SAT SD
-http://tbsrv.me:8880/danselmo/11985778779/128652
-#EXTINF:-1,ID - Investigação Discovery FHD
-http://tbsrv.me:8880/danselmo/11985778779/69574
-#EXTINF:-1,ID - Investigação Discovery HD
-http://tbsrv.me:8880/danselmo/11985778779/69576
-#EXTINF:-1,ID - Investigação Discovery SD
-http://tbsrv.me:8880/danselmo/11985778779/69577
-#EXTINF:-1,Jovem Pan News HD
-http://tbsrv.me:8880/danselmo/11985778779/172242
-#EXTINF:-1,Lifetime FHD
-http://tbsrv.me:8880/danselmo/11985778779/69775
-#EXTINF:-1,Lifetime HD
-http://tbsrv.me:8880/danselmo/11985778779/151
-#EXTINF:-1,Lifetime SD
-http://tbsrv.me:8880/danselmo/11985778779/69776
-#EXTINF:-1,Loading TV FHD
-http://tbsrv.me:8880/danselmo/11985778779/121088
-#EXTINF:-1,Mais Globosat FHD
-http://tbsrv.me:8880/danselmo/11985778779/74613
-#EXTINF:-1,Mais Globosat HD
-http://tbsrv.me:8880/danselmo/11985778779/153
-#EXTINF:-1,Mais Globosat SD
-http://tbsrv.me:8880/danselmo/11985778779/69778
-#EXTINF:-1,Megapix FHD
-http://tbsrv.me:8880/danselmo/11985778779/69562
-#EXTINF:-1,Megapix HD
-http://tbsrv.me:8880/danselmo/11985778779/69659
-#EXTINF:-1,Megapix SD
-http://tbsrv.me:8880/danselmo/11985778779/69610
-#EXTINF:-1,MTV FHD
-http://tbsrv.me:8880/danselmo/11985778779/69779
-#EXTINF:-1,MTV HD
-http://tbsrv.me:8880/danselmo/11985778779/69780
-#EXTINF:-1,MTV SD
-http://tbsrv.me:8880/danselmo/11985778779/155
-#EXTINF:-1,Multishow FHD
-http://tbsrv.me:8880/danselmo/11985778779/69782
-#EXTINF:-1,Multishow HD
-http://tbsrv.me:8880/danselmo/11985778779/162
-#EXTINF:-1,Multishow SD
-http://tbsrv.me:8880/danselmo/11985778779/69783
-#EXTINF:-1,Music Box Brazil FHD
-http://tbsrv.me:8880/danselmo/11985778779/94344
-#EXTINF:-1,Music Box Brazil HD
-http://tbsrv.me:8880/danselmo/11985778779/74614
-#EXTINF:-1,Music Box Brazil SD
-http://tbsrv.me:8880/danselmo/11985778779/69784
-#EXTINF:-1,NatGeo Kids FHD
-http://tbsrv.me:8880/danselmo/11985778779/69505
-#EXTINF:-1,NatGeo Kids HD
-http://tbsrv.me:8880/danselmo/11985778779/69506
-#EXTINF:-1,NatGeo Kids SD
-http://tbsrv.me:8880/danselmo/11985778779/69507
-#EXTINF:-1,NatGeo Wild FHD
-http://tbsrv.me:8880/danselmo/11985778779/69582
-#EXTINF:-1,NatGeo Wild HD
-http://tbsrv.me:8880/danselmo/11985778779/69584
-#EXTINF:-1,NatGeo Wild SD
-http://tbsrv.me:8880/danselmo/11985778779/69586
-#EXTINF:-1,National Geographic FHD
-http://tbsrv.me:8880/danselmo/11985778779/69578
-#EXTINF:-1,National Geographic HD
-http://tbsrv.me:8880/danselmo/11985778779/69579
-#EXTINF:-1,National Geographic SD
-http://tbsrv.me:8880/danselmo/11985778779/69581
-#EXTINF:-1,NHK FHD
-http://tbsrv.me:8880/danselmo/11985778779/111099
-#EXTINF:-1,Nick Junior FHD
-http://tbsrv.me:8880/danselmo/11985778779/69508
-#EXTINF:-1,Nick Junior HD
-http://tbsrv.me:8880/danselmo/11985778779/69509
-#EXTINF:-1,Nick Junior SD
-http://tbsrv.me:8880/danselmo/11985778779/69510
-#EXTINF:-1,Nickelodeon FHD
-http://tbsrv.me:8880/danselmo/11985778779/69511
-#EXTINF:-1,Nickelodeon HD
-http://tbsrv.me:8880/danselmo/11985778779/69512
-#EXTINF:-1,Nickelodeon SD
-http://tbsrv.me:8880/danselmo/11985778779/69513
-#EXTINF:-1,Novo Tempo HD²
-http://tbsrv.me:8880/danselmo/11985778779/112879
-#EXTINF:-1,Novo Tempo SD²
-http://tbsrv.me:8880/danselmo/11985778779/99203
-#EXTINF:-1,Off FHD
-http://tbsrv.me:8880/danselmo/11985778779/74615
-#EXTINF:-1,Off HD
-http://tbsrv.me:8880/danselmo/11985778779/742
-#EXTINF:-1,Off SD
-http://tbsrv.me:8880/danselmo/11985778779/69797
-#EXTINF:-1,Palmeiras TV HD
-http://tbsrv.me:8880/danselmo/11985778779/133534
-#EXTINF:-1,Paramount Channel FHD
-http://tbsrv.me:8880/danselmo/11985778779/69555
-#EXTINF:-1,Paramount Channel HD
-http://tbsrv.me:8880/danselmo/11985778779/69681
-#EXTINF:-1,Paramount Channel SD
-http://tbsrv.me:8880/danselmo/11985778779/69614
-#EXTINF:-1,Play TV FHD
-http://tbsrv.me:8880/danselmo/11985778779/94429
-#EXTINF:-1,Play TV HD
-http://tbsrv.me:8880/danselmo/11985778779/94430
-#EXTINF:-1,Play TV SD
-http://tbsrv.me:8880/danselmo/11985778779/70003
-#EXTINF:-1,PlayKids HD
-http://tbsrv.me:8880/danselmo/11985778779/94428
-#EXTINF:-1,Polishop TV FHD
-http://tbsrv.me:8880/danselmo/11985778779/111101
-#EXTINF:-1,Premiere Clubes FHD
-http://tbsrv.me:8880/danselmo/11985778779/69718
-#EXTINF:-1,Premiere Clubes HD
-http://tbsrv.me:8880/danselmo/11985778779/69737
-#EXTINF:-1,Premiere Clubes SD
-http://tbsrv.me:8880/danselmo/11985778779/397
-#EXTINF:-1,Premiere 2 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69719
-#EXTINF:-1,Premiere 2 HD
-http://tbsrv.me:8880/danselmo/11985778779/69739
-#EXTINF:-1,Premiere 2 SD
-http://tbsrv.me:8880/danselmo/11985778779/69734
-#EXTINF:-1,Premiere 3 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69720
-#EXTINF:-1,Premiere 3 HD
-http://tbsrv.me:8880/danselmo/11985778779/69740
-#EXTINF:-1,Premiere 3 SD
-http://tbsrv.me:8880/danselmo/11985778779/69733
-#EXTINF:-1,Premiere 4 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69721
-#EXTINF:-1,Premiere 4 HD
-http://tbsrv.me:8880/danselmo/11985778779/69738
-#EXTINF:-1,Premiere 4 SD
-http://tbsrv.me:8880/danselmo/11985778779/69728
-#EXTINF:-1,Premiere 5 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69722
-#EXTINF:-1,Premiere 5 HD
-http://tbsrv.me:8880/danselmo/11985778779/69741
-#EXTINF:-1,Premiere 5 SD
-http://tbsrv.me:8880/danselmo/11985778779/69735
-#EXTINF:-1,Premiere 6 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69723
-#EXTINF:-1,Premiere 6 HD
-http://tbsrv.me:8880/danselmo/11985778779/69742
-#EXTINF:-1,Premiere 6 SD
-http://tbsrv.me:8880/danselmo/11985778779/69736
-#EXTINF:-1,Premiere 7 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69724
-#EXTINF:-1,Premiere 7 HD
-http://tbsrv.me:8880/danselmo/11985778779/69729
-#EXTINF:-1,Premiere 7 SD
-http://tbsrv.me:8880/danselmo/11985778779/69730
-#EXTINF:-1,Prime Box Brazil FHD
-http://tbsrv.me:8880/danselmo/11985778779/94453
-#EXTINF:-1,Prime Box Brazil HD
-http://tbsrv.me:8880/danselmo/11985778779/944
-#EXTINF:-1,Prime Box Brazil SD
-http://tbsrv.me:8880/danselmo/11985778779/942
-#EXTINF:-1,Record News FHD
-http://tbsrv.me:8880/danselmo/11985778779/94479
-#EXTINF:-1,Record News HD
-http://tbsrv.me:8880/danselmo/11985778779/375
-#EXTINF:-1,Record News SD
-http://tbsrv.me:8880/danselmo/11985778779/69469
-#EXTINF:-1,RecordTV SP FHD
-http://tbsrv.me:8880/danselmo/11985778779/69673
-#EXTINF:-1,RecordTV SP HD
-http://tbsrv.me:8880/danselmo/11985778779/173
-#EXTINF:-1,RecordTV SP SD
-http://tbsrv.me:8880/danselmo/11985778779/174
-#EXTINF:-1,RecordTV RJ FHD
-http://tbsrv.me:8880/danselmo/11985778779/141904
-#EXTINF:-1,RecordTV RJ HD
-http://tbsrv.me:8880/danselmo/11985778779/69672
-#EXTINF:-1,RecordTV Bahia HD
-http://tbsrv.me:8880/danselmo/11985778779/128701
-#EXTINF:-1,RecordTV Bahia FHD
-http://tbsrv.me:8880/danselmo/11985778779/141918
-#EXTINF:-1,RecordTV Bahia SD
-http://tbsrv.me:8880/danselmo/11985778779/141912
-#EXTINF:-1,RecordTV Belem FHD
-http://tbsrv.me:8880/danselmo/11985778779/141924
-#EXTINF:-1,RecordTV Belem HD
-http://tbsrv.me:8880/danselmo/11985778779/141923
-#EXTINF:-1,RecordTV Belem SD
-http://tbsrv.me:8880/danselmo/11985778779/113616
-#EXTINF:-1,RecordTV BH Minas HD
-http://tbsrv.me:8880/danselmo/11985778779/99227
-#EXTINF:-1,RecordTV Brasilia FHD
-http://tbsrv.me:8880/danselmo/11985778779/141919
-#EXTINF:-1,RecordTV Brasilia SD
-http://tbsrv.me:8880/danselmo/11985778779/141913
-#EXTINF:-1,RecordTV Brasilia HD
-http://tbsrv.me:8880/danselmo/11985778779/181
-#EXTINF:-1,RecordTV Espirito Santo HD
-http://tbsrv.me:8880/danselmo/11985778779/141925
-#EXTINF:-1,RecordTV Goias FHD
-http://tbsrv.me:8880/danselmo/11985778779/141910
-#EXTINF:-1,RecordTV Goias HD
-http://tbsrv.me:8880/danselmo/11985778779/141915
-#EXTINF:-1,RecordTV Goias SD
-http://tbsrv.me:8880/danselmo/11985778779/141914
-#EXTINF:-1,RecordTV Manaus HD
-http://tbsrv.me:8880/danselmo/11985778779/141921
-#EXTINF:-1,RecordTV MG HD
-http://tbsrv.me:8880/danselmo/11985778779/190
-#EXTINF:-1,RecordTV MG SD
-http://tbsrv.me:8880/danselmo/11985778779/69671
-#EXTINF:-1,RecordTV Paraná FHD
-http://tbsrv.me:8880/danselmo/11985778779/141922
-#EXTINF:-1,RecordTV Paraná HD
-http://tbsrv.me:8880/danselmo/11985778779/141916
-#EXTINF:-1,RecordTV RJ SD
-http://tbsrv.me:8880/danselmo/11985778779/141920
-#EXTINF:-1,RecordTV RS FHD
-http://tbsrv.me:8880/danselmo/11985778779/141917
-#EXTINF:-1,RecordTV RS HD
-http://tbsrv.me:8880/danselmo/11985778779/141905
-#EXTINF:-1,RecordTV RS HD
-http://tbsrv.me:8880/danselmo/11985778779/75136
-#EXTINF:-1,Rede Brasil FHD
-http://tbsrv.me:8880/danselmo/11985778779/141928
-#EXTINF:-1,Rede CNT ES FHD
-http://tbsrv.me:8880/danselmo/11985778779/99206
-#EXTINF:-1,Rede CNT SD
-http://tbsrv.me:8880/danselmo/11985778779/99207
-#EXTINF:-1,Rede Genesis FHD
-http://tbsrv.me:8880/danselmo/11985778779/128653
-#EXTINF:-1,Rede Genesis SD
-http://tbsrv.me:8880/danselmo/11985778779/128654
-#EXTINF:-1,Rede Gospel SD²
-http://tbsrv.me:8880/danselmo/11985778779/129347
-#EXTINF:-1,Rede TV FHD
-http://tbsrv.me:8880/danselmo/11985778779/69677
-#EXTINF:-1,Rede TV HD
-http://tbsrv.me:8880/danselmo/11985778779/69678
-#EXTINF:-1,Rede TV RS - TV Pampa HD
-http://tbsrv.me:8880/danselmo/11985778779/172605
-#EXTINF:-1,Rede TV SD
-http://tbsrv.me:8880/danselmo/11985778779/69680
-#EXTINF:-1,Rede Vida FHD
-http://tbsrv.me:8880/danselmo/11985778779/70518
-#EXTINF:-1,Rede Vida SD²
-http://tbsrv.me:8880/danselmo/11985778779/111058
-#EXTINF:-1,SBT SP FHD
-http://tbsrv.me:8880/danselmo/11985778779/94520
-#EXTINF:-1,SBT SP HD
-http://tbsrv.me:8880/danselmo/11985778779/69683
-#EXTINF:-1,SBT SP SD
-http://tbsrv.me:8880/danselmo/11985778779/69684
-#EXTINF:-1,SBT RJ FHD²
-http://tbsrv.me:8880/danselmo/11985778779/128699
-#EXTINF:-1,SBT RJ HD²
-http://tbsrv.me:8880/danselmo/11985778779/99221
-#EXTINF:-1,SBT RJ SD²
-http://tbsrv.me:8880/danselmo/11985778779/141932
-#EXTINF:-1,SBT RS HD²
-http://tbsrv.me:8880/danselmo/11985778779/141945
-#EXTINF:-1,SBT Alterosa MG FHD²
-http://tbsrv.me:8880/danselmo/11985778779/141952
-#EXTINF:-1,SBT Alterosa MG SD²
-http://tbsrv.me:8880/danselmo/11985778779/141953
-#EXTINF:-1,SBT Aratu Bahia SD²
-http://tbsrv.me:8880/danselmo/11985778779/141950
-#EXTINF:-1,SBT BSB HD²
-http://tbsrv.me:8880/danselmo/11985778779/141947
-#EXTINF:-1,SBT ES HD²
-http://tbsrv.me:8880/danselmo/11985778779/141955
-#EXTINF:-1,SBT ES SD²
-http://tbsrv.me:8880/danselmo/11985778779/141946
-#EXTINF:-1,SBT MG Alterosa FHD²
-http://tbsrv.me:8880/danselmo/11985778779/99214
-#EXTINF:-1,SBT Parana FHD²
-http://tbsrv.me:8880/danselmo/11985778779/141930
-#EXTINF:-1,SBT Parana SD²
-http://tbsrv.me:8880/danselmo/11985778779/141931
-#EXTINF:-1,SBT Paraná HD²
-http://tbsrv.me:8880/danselmo/11985778779/122051
-#EXTINF:-1,SBT Sergipe HD²
-http://tbsrv.me:8880/danselmo/11985778779/141948
-#EXTINF:-1,SBT Serra Dourada SD²
-http://tbsrv.me:8880/danselmo/11985778779/141951
-#EXTINF:-1,SBT TV Alterosa FHD
-http://tbsrv.me:8880/danselmo/11985778779/99215
-#EXTINF:-1,SBT VTV Campinas FHD
-http://tbsrv.me:8880/danselmo/11985778779/141949
-#EXTINF:-1,Shoptime SD
-http://tbsrv.me:8880/danselmo/11985778779/111102
-#EXTINF:-1,Smithsonian Channel FHD
-http://tbsrv.me:8880/danselmo/11985778779/167865
-#EXTINF:-1,Space FHD
-http://tbsrv.me:8880/danselmo/11985778779/70021
-#EXTINF:-1,Space HD
-http://tbsrv.me:8880/danselmo/11985778779/69667
-#EXTINF:-1,Space SD
-http://tbsrv.me:8880/danselmo/11985778779/69629
-#EXTINF:-1,SporTV FHD
-http://tbsrv.me:8880/danselmo/11985778779/69716
-#EXTINF:-1,SporTV HD
-http://tbsrv.me:8880/danselmo/11985778779/69743
-#EXTINF:-1,SporTV SD
-http://tbsrv.me:8880/danselmo/11985778779/69790
-#EXTINF:-1,SporTV 2 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69717
-#EXTINF:-1,SporTV 2 HD
-http://tbsrv.me:8880/danselmo/11985778779/69744
-#EXTINF:-1,SporTV 2 SD
-http://tbsrv.me:8880/danselmo/11985778779/69726
-#EXTINF:-1,SporTV 3 FHD
-http://tbsrv.me:8880/danselmo/11985778779/69758
-#EXTINF:-1,SporTV 3 HD
-http://tbsrv.me:8880/danselmo/11985778779/69745
-#EXTINF:-1,SporTV 3 SD
-http://tbsrv.me:8880/danselmo/11985778779/69727
-#EXTINF:-1,Studio Universal FHD
-http://tbsrv.me:8880/danselmo/11985778779/899
-#EXTINF:-1,Studio Universal HD
-http://tbsrv.me:8880/danselmo/11985778779/93
-#EXTINF:-1,Studio Universal SD
-http://tbsrv.me:8880/danselmo/11985778779/70022
-#EXTINF:-1,Super Gospel SD²
-http://tbsrv.me:8880/danselmo/11985778779/142104
-#EXTINF:-1,SyFy FHD
-http://tbsrv.me:8880/danselmo/11985778779/69557
-#EXTINF:-1,SyFy HD
-http://tbsrv.me:8880/danselmo/11985778779/69662
-#EXTINF:-1,SyFy SD
-http://tbsrv.me:8880/danselmo/11985778779/70023
-#EXTINF:-1,TBS FHD
-http://tbsrv.me:8880/danselmo/11985778779/77746
-#EXTINF:-1,TBS HD
-http://tbsrv.me:8880/danselmo/11985778779/69799
-#EXTINF:-1,TBS SD
-http://tbsrv.me:8880/danselmo/11985778779/69798
-#EXTINF:-1,TCM FHD
-http://tbsrv.me:8880/danselmo/11985778779/94583
-#EXTINF:-1,TCM HD
-http://tbsrv.me:8880/danselmo/11985778779/924
-#EXTINF:-1,TCM SD
-http://tbsrv.me:8880/danselmo/11985778779/69607
-#EXTINF:-1,Telecine Action FHD
-http://tbsrv.me:8880/danselmo/11985778779/69551
-#EXTINF:-1,Telecine Action HD
-http://tbsrv.me:8880/danselmo/11985778779/70024
-#EXTINF:-1,Telecine Action SD
-http://tbsrv.me:8880/danselmo/11985778779/69609
-#EXTINF:-1,Telecine Cult FHD
-http://tbsrv.me:8880/danselmo/11985778779/69563
-#EXTINF:-1,Telecine Cult HD
-http://tbsrv.me:8880/danselmo/11985778779/69661
-#EXTINF:-1,Telecine Cult SD
-http://tbsrv.me:8880/danselmo/11985778779/69619
-#EXTINF:-1,Telecine Fun FHD
-http://tbsrv.me:8880/danselmo/11985778779/69550
-#EXTINF:-1,Telecine Fun HD
-http://tbsrv.me:8880/danselmo/11985778779/70025
-#EXTINF:-1,Telecine Fun SD
-http://tbsrv.me:8880/danselmo/11985778779/69620
-#EXTINF:-1,Telecine Pipoca FHD
-http://tbsrv.me:8880/danselmo/11985778779/69549
-#EXTINF:-1,Telecine Pipoca HD
-http://tbsrv.me:8880/danselmo/11985778779/70026
-#EXTINF:-1,Telecine Pipoca SD
-http://tbsrv.me:8880/danselmo/11985778779/69640
-#EXTINF:-1,Telecine Premium FHD
-http://tbsrv.me:8880/danselmo/11985778779/69548
-#EXTINF:-1,Telecine Premium HD
-http://tbsrv.me:8880/danselmo/11985778779/70027
-#EXTINF:-1,Telecine Premium SD
-http://tbsrv.me:8880/danselmo/11985778779/69639
-#EXTINF:-1,Telecine Touch FHD
-http://tbsrv.me:8880/danselmo/11985778779/69547
-#EXTINF:-1,Telecine Touch HD
-http://tbsrv.me:8880/danselmo/11985778779/70028
-#EXTINF:-1,Telecine Touch SD
-http://tbsrv.me:8880/danselmo/11985778779/69638
-#EXTINF:-1,TLC FHD
-http://tbsrv.me:8880/danselmo/11985778779/74616
-#EXTINF:-1,TLC HD
-http://tbsrv.me:8880/danselmo/11985778779/70006
-#EXTINF:-1,TLC SD
-http://tbsrv.me:8880/danselmo/11985778779/70007
-#EXTINF:-1,TNT FHD
-http://tbsrv.me:8880/danselmo/11985778779/69561
-#EXTINF:-1,TNT HD
-http://tbsrv.me:8880/danselmo/11985778779/69655
-#EXTINF:-1,TNT SD
-http://tbsrv.me:8880/danselmo/11985778779/69646
-#EXTINF:-1,TNT Sports 01
-http://tbsrv.me:8880/danselmo/11985778779/133542
-#EXTINF:-1,TNT Sports 02
-http://tbsrv.me:8880/danselmo/11985778779/133543
-#EXTINF:-1,TNT Sports 03
-http://tbsrv.me:8880/danselmo/11985778779/133544
-#EXTINF:-1,TNT Sports 04
-http://tbsrv.me:8880/danselmo/11985778779/133545
-#EXTINF:-1,TNT Sports 05
-http://tbsrv.me:8880/danselmo/11985778779/133546
-#EXTINF:-1,TNT Sports 06
-http://tbsrv.me:8880/danselmo/11985778779/133547
-#EXTINF:-1,TNT Séries FHD
-http://tbsrv.me:8880/danselmo/11985778779/69546
-#EXTINF:-1,TNT Séries HD
-http://tbsrv.me:8880/danselmo/11985778779/70029
-#EXTINF:-1,TNT Séries SD
-http://tbsrv.me:8880/danselmo/11985778779/69628
-#EXTINF:-1,Tooncast FHD
-http://tbsrv.me:8880/danselmo/11985778779/94640
-#EXTINF:-1,Tooncast HD
-http://tbsrv.me:8880/danselmo/11985778779/69514
-#EXTINF:-1,Tooncast SD
-http://tbsrv.me:8880/danselmo/11985778779/69515
-#EXTINF:-1,Travel Box Brasil FHD
-http://tbsrv.me:8880/danselmo/11985778779/111103
-#EXTINF:-1,Travel Box Brasil HD
-http://tbsrv.me:8880/danselmo/11985778779/111104
-#EXTINF:-1,Tru TV FHD
-http://tbsrv.me:8880/danselmo/11985778779/94637
-#EXTINF:-1,Tru TV HD
-http://tbsrv.me:8880/danselmo/11985778779/94638
-#EXTINF:-1,Tru TV SD
-http://tbsrv.me:8880/danselmo/11985778779/94639
-#EXTINF:-1,Tv Aparecida FHD
-http://tbsrv.me:8880/danselmo/11985778779/142102
-#EXTINF:-1,TV Aparecida SD²
-http://tbsrv.me:8880/danselmo/11985778779/99202
-#EXTINF:-1,TV Brasil 2 FHD
-http://tbsrv.me:8880/danselmo/11985778779/121514
-#EXTINF:-1,TV Brasil FHD
-http://tbsrv.me:8880/danselmo/11985778779/121513
-#EXTINF:-1,TV Camara FHD
-http://tbsrv.me:8880/danselmo/11985778779/141935
-#EXTINF:-1,TV Camara HD
-http://tbsrv.me:8880/danselmo/11985778779/122052
-#EXTINF:-1,TV Cultura FHD
-http://tbsrv.me:8880/danselmo/11985778779/153135
-#EXTINF:-1,TV Cultura SD
-http://tbsrv.me:8880/danselmo/11985778779/73650
-#EXTINF:-1,TV Escola FHD
-http://tbsrv.me:8880/danselmo/11985778779/122053
-#EXTINF:-1,TV Evangelizar SD²
-http://tbsrv.me:8880/danselmo/11985778779/99201
-#EXTINF:-1,TV Gazeta HD
-http://tbsrv.me:8880/danselmo/11985778779/101845
-#EXTINF:-1,TV Gideões HDR
-http://tbsrv.me:8880/danselmo/11985778779/70072
-#EXTINF:-1,TV Justica FHD
-http://tbsrv.me:8880/danselmo/11985778779/141936
-#EXTINF:-1,Tv Pai Eterno FHD
-http://tbsrv.me:8880/danselmo/11985778779/128655
-#EXTINF:-1,TV Pai Eterno SD²
-http://tbsrv.me:8880/danselmo/11985778779/142103
-#EXTINF:-1,TV Ra Tim Bum FHD
-http://tbsrv.me:8880/danselmo/11985778779/74527
-#EXTINF:-1,TV Ra Tim Bum HD
-http://tbsrv.me:8880/danselmo/11985778779/101947
-#EXTINF:-1,TV Ra Tim Bum SD
-http://tbsrv.me:8880/danselmo/11985778779/69518
-#EXTINF:-1,TV Senado FHD
-http://tbsrv.me:8880/danselmo/11985778779/123975
-#EXTINF:-1,Universal Channel FHD
-http://tbsrv.me:8880/danselmo/11985778779/910
-#EXTINF:-1,Universal Channel HD
-http://tbsrv.me:8880/danselmo/11985778779/111
-#EXTINF:-1,Universal Channel SD
-http://tbsrv.me:8880/danselmo/11985778779/110
-#EXTINF:-1,VH1 HD
-http://tbsrv.me:8880/danselmo/11985778779/111074
-#EXTINF:-1,VH1 MegaHits FHD
-http://tbsrv.me:8880/danselmo/11985778779/74617
-#EXTINF:-1,VH1 MegaHits HD
-http://tbsrv.me:8880/danselmo/11985778779/69805
-#EXTINF:-1,VH1 MegaHits SD
-http://tbsrv.me:8880/danselmo/11985778779/70005
-#EXTINF:-1,Viva FHD
-http://tbsrv.me:8880/danselmo/11985778779/94641
-#EXTINF:-1,Viva HD
-http://tbsrv.me:8880/danselmo/11985778779/634
-#EXTINF:-1,Viva SD
-http://tbsrv.me:8880/danselmo/11985778779/69800
-#EXTINF:-1,Warner Channel FHD
-http://tbsrv.me:8880/danselmo/11985778779/69545
-#EXTINF:-1,Warner Channel HD
-http://tbsrv.me:8880/danselmo/11985778779/69654
-#EXTINF:-1,Warner Channel SD
-http://tbsrv.me:8880/danselmo/11985778779/112
-#EXTINF:-1,WooHoo FHD
-http://tbsrv.me:8880/danselmo/11985778779/70150
-#EXTINF:-1,Woohoo HD
-http://tbsrv.me:8880/danselmo/11985778779/111079
-#EXTINF:-1,WooHoo SD
-http://tbsrv.me:8880/danselmo/11985778779/70151
-#EXTINF:-1,Zoomoo FHD
-http://tbsrv.me:8880/danselmo/11985778779/101948
-#EXTINF:-1,Zoomoo HD
-http://tbsrv.me:8880/danselmo/11985778779/101949
-#EXTINF:-1,Rede Século 21 HDR
-http://tbsrv.me:8880/danselmo/11985778779/191727
-#EXTINF:-1,O Tempo Sports
-http://tbsrv.me:8880/danselmo/11985778779/193118
-#EXTINF:-1,Campeonato Sergipano 1
-http://tbsrv.me:8880/danselmo/11985778779/193121
-#EXTINF:-1,Campeonato Sergipano 2
-http://tbsrv.me:8880/danselmo/11985778779/193122
-#EXTINF:-1,Campeonato Paranaense 1
-http://tbsrv.me:8880/danselmo/11985778779/193123
-#EXTINF:-1,Campeonato Paranaense 2
-http://tbsrv.me:8880/danselmo/11985778779/193124
-#EXTINF:-1,NBA
-http://tbsrv.me:8880/danselmo/11985778779/193673
-#EXTINF:-1,DAZN 1
-http://tbsrv.me:8880/danselmo/11985778779/194353
-#EXTINF:-1,DAZN 2
-http://tbsrv.me:8880/danselmo/11985778779/194354
-#EXTINF:-1,DAZN 3
-http://tbsrv.me:8880/danselmo/11985778779/194355
-#EXTINF:-1,DAZN 4
-http://tbsrv.me:8880/danselmo/11985778779/194356
-#EXTINF:-1,STAR+ 1
-http://tbsrv.me:8880/danselmo/11985778779/194357
-#EXTINF:-1,STAR+ 2
-http://tbsrv.me:8880/danselmo/11985778779/194358
-#EXTINF:-1,STAR+ 3
-http://tbsrv.me:8880/danselmo/11985778779/194359
-#EXTINF:-1,STAR+ 4
-http://tbsrv.me:8880/danselmo/11985778779/194360
-#EXTINF:-1,HBO Max 1
-http://tbsrv.me:8880/danselmo/11985778779/194364
-#EXTINF:-1,HBO Max 3
-http://tbsrv.me:8880/danselmo/11985778779/194365
-#EXTINF:-1,HBO Max 4
-http://tbsrv.me:8880/danselmo/11985778779/194366
-#EXTINF:-1,HBO Max 5
-http://tbsrv.me:8880/danselmo/11985778779/194367
-#EXTINF:-1,HBO Max 2
-http://tbsrv.me:8880/danselmo/11985778779/194368
-#EXTINF:-1,NGT HD
-http://tbsrv.me:8880/danselmo/11985778779/196889
-#EXTINF:-1,Globo EPTV Ribeirão Preto FHD
-http://tbsrv.me:8880/danselmo/11985778779/196968
-#EXTINF:-1,Canal do Boi HD
-http://tbsrv.me:8880/danselmo/11985778779/197018
-#EXTINF:-1,Dog TV FHD
-http://tbsrv.me:8880/danselmo/11985778779/197019
-#EXTINF:-1,FashionTV FHD
-http://tbsrv.me:8880/danselmo/11985778779/197020
-#EXTINF:-1,NHK HD
-http://tbsrv.me:8880/danselmo/11985778779/197021
-#EXTINF:-1,Shoptime FHD
-http://tbsrv.me:8880/danselmo/11985778779/197022
-#EXTINF:-1,Shoptime HD
-http://tbsrv.me:8880/danselmo/11985778779/197023
-#EXTINF:-1,Smithsonian Channel HD
-http://tbsrv.me:8880/danselmo/11985778779/197024
-#EXTINF:-1,VH1 FHD
-http://tbsrv.me:8880/danselmo/11985778779/197025
-#EXTINF:-1,VH1 SD
-http://tbsrv.me:8880/danselmo/11985778779/197026
-#EXTINF:-1,Zoomoo SD
-http://tbsrv.me:8880/danselmo/11985778779/197027
-#EXTINF:-1,Band TV Campinas HD
-http://tbsrv.me:8880/danselmo/11985778779/197028
-#EXTINF:-1,Band TV RJ HD
-http://tbsrv.me:8880/danselmo/11985778779/197035
-#EXTINF:-1,Band TV SP SD
-http://tbsrv.me:8880/danselmo/11985778779/197037
-#EXTINF:-1,TV Cultura HD
-http://tbsrv.me:8880/danselmo/11985778779/197041
-#EXTINF:-1,RecordTV MG FHD
-http://tbsrv.me:8880/danselmo/11985778779/197048
-#EXTINF:-1,Jovem Pan News FHD
-http://tbsrv.me:8880/danselmo/11985778779/197239
-#EXTINF:-1,SBT VTV Campinas HD
-http://tbsrv.me:8880/danselmo/11985778779/197526
-#EXTINF:-1,SBT TV Alterosa HD
-http://tbsrv.me:8880/danselmo/11985778779/197527
-#EXTINF:-1,A&E FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77668
-#EXTINF:-1,AMC FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77669
-#EXTINF:-1,Animal Planet FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77670
-#EXTINF:-1,AXN FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77671
-#EXTINF:-1,Band News FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77672
-#EXTINF:-1,Band Sports FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77673
-#EXTINF:-1,BIS FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77674
-#EXTINF:-1,Boomerang FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77675
-#EXTINF:-1,Canal Brasil FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77676
-#EXTINF:-1,Canal Sony FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77677
-#EXTINF:-1,Cartoon Network FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77678
-#EXTINF:-1,Cinemax FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77679
-#EXTINF:-1,Combate FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77680
-#EXTINF:-1,Comedy Central FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77681
-#EXTINF:-1,Discovery Channel FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77682
-#EXTINF:-1,Discovery H&H FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77684
-#EXTINF:-1,Discovery HGTV FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77683
-#EXTINF:-1,Discovery Kids FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77685
-#EXTINF:-1,Discovery Science FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77686
-#EXTINF:-1,Discovery Theater FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77687
-#EXTINF:-1,Discovery Turbo FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77688
-#EXTINF:-1,Discovery World FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77689
-#EXTINF:-1,Disney Channel FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77690
-#EXTINF:-1,Disney Jr FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77691
-#EXTINF:-1,E! FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77692
-#EXTINF:-1,ESPN 3 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77695
-#EXTINF:-1,ESPN FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77696
-#EXTINF:-1,ESPN Extra FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77693
-#EXTINF:-1,ESPN 2 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77694
-#EXTINF:-1,Fish TV FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77697
-#EXTINF:-1,Food Network FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77698
-#EXTINF:-1,Star Channel FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77699
-#EXTINF:-1,Star Hits FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77700
-#EXTINF:-1,Star Hits 2 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77701
-#EXTINF:-1,Fox Sports 2 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77703
-#EXTINF:-1,Fox Sports FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77702
-#EXTINF:-1,FX FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77704
-#EXTINF:-1,Globo Brasilia FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77665
-#EXTINF:-1,Globo News FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77705
-#EXTINF:-1,Globo SP FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77666
-#EXTINF:-1,Gloob FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77706
-#EXTINF:-1,GNT FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77707
-#EXTINF:-1,H2 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77714
-#EXTINF:-1,HBO 2 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77712
-#EXTINF:-1,HBO Familly FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77708
-#EXTINF:-1,HBO FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77709
-#EXTINF:-1,HBO Mundi FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77718
-#EXTINF:-1,HBO Signature FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77711
-#EXTINF:-1,HBO Xtreme FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77719
-#EXTINF:-1,History Channel FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77713
-#EXTINF:-1,ID - Investigação Discovery FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77715
-#EXTINF:-1,Lifetime FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77716
-#EXTINF:-1,Mais Globosat FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77717
-#EXTINF:-1,Megapix FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77721
-#EXTINF:-1,MTV FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77722
-#EXTINF:-1,Multishow FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77723
-#EXTINF:-1,NatGeo Kids FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77726
-#EXTINF:-1,NatGeo Wild FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77725
-#EXTINF:-1,National Geographic FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77724
-#EXTINF:-1,Nick Jr FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77728
-#EXTINF:-1,Nickelodeon FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77727
-#EXTINF:-1,Off FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77729
-#EXTINF:-1,Premiere 2 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77732
-#EXTINF:-1,Premiere 3 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77733
-#EXTINF:-1,Premiere 4 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77734
-#EXTINF:-1,Premiere 5 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77735
-#EXTINF:-1,Premiere 6 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77736
-#EXTINF:-1,Premiere 7 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77737
-#EXTINF:-1,Premiere Clubes FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77731
-#EXTINF:-1,RecordTV SP FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77663
-#EXTINF:-1,Rede TV FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77739
-#EXTINF:-1,Space FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77740
-#EXTINF:-1,SporTV 2 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77742
-#EXTINF:-1,SporTV 3 FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77743
-#EXTINF:-1,SporTV FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77741
-#EXTINF:-1,Studio Universal FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77744
-#EXTINF:-1,SyFy FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77745
-#EXTINF:-1,Telecine Action FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77747
-#EXTINF:-1,Telecine Cult FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77748
-#EXTINF:-1,Telecine Fun FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77749
-#EXTINF:-1,Telecine Pipoca FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77750
-#EXTINF:-1,Telecine Premium FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77751
-#EXTINF:-1,Telecine Touch FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77752
-#EXTINF:-1,TLC FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77753
-#EXTINF:-1,TNT FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77754
-#EXTINF:-1,TNT Series FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77755
-#EXTINF:-1,Warner Channel FHD [H265]
-http://tbsrv.me:8880/danselmo/11985778779/77761
+#EXTINF:-1 tvg-id="Record TV Belem (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="Geral",Record TV Belem (720p) [Geo-blocked]
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Globo RJ (720p)" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Geral",Globo RJ (720p)
+http://50.7.34.155:2200/BR/Globo_HD_RJ-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="Record TV Brasilia (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="Geral",Record TV Brasilia (720p) [Geo-blocked]
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="BBB 2022 (720p)" tvg-logo="http://printv.esy.es/server/BBB.png" group-title="Geral",BBB 2022 (720p)
+http://161.35.3.233/hls/bbb-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Goias (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="Geral",Record TV Goias (720p) [Geo-blocked]
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="BBB 2022 - 2 (720p)" tvg-logo="http://printv.esy.es/server/BBB.png" group-title="Geral",BBB 2022 - 2 (720p)
+http://161.35.3.233/hls/bbb2-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="SBT HD (1080p)" tvg-logo="https://www.bastidoresdatv.com.br/wp-content/uploads/2015/12/Logotipo_do_SBT_SC.png" group-title="Geral",SBT HD (1080p)
+http://solutionplay.xyz:8080/techruthes/10987658/27332
+
+#EXTINF:-1 tvg-id="Record TV Itapoan (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="Geral",Record TV Itapoan (720p) [Geo-blocked]
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Minas (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="Geral",Record TV Minas (720p) [Geo-blocked]
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Rio (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="Geral",Record TV Rio (720p) [Geo-blocked]
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Record TV RS (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="Geral",Record TV RS (720p) [Geo-blocked]
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Record TV SP (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="Geral",Record TV SP (720p) [Geo-blocked]
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Rede Brasil (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png/300px-Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="Geral",Rede Brasil (720p) [Not 24/7]
+https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede TV! Pampa (720p) [Not 24/7]" tvg-logo="https://www.livetvnews.com.br/wp-content/uploads/2019/03/Logo-RedeTV.png" group-title="Geral",Rede TV! Pampa (720p) [Not 24/7]
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede TV! SP (720p) [Not 24/7]" tvg-logo="https://www.livetvnews.com.br/wp-content/uploads/2019/03/Logo-RedeTV.png" group-title="Geral",Rede TV! SP (720p) [Not 24/7]
+https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV! Tocantins (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/8fGmJWA.png" group-title="Geral",RedeTV! Tocantins (720p) [Not 24/7]
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT Rede Massa (720p) [Not 24/7]" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-massa_m.png" group-title="Geral",SBT Rede Massa (720p) [Not 24/7]
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT TV Cidade Verde (1080p) [Not 24/7]" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cidade-verde-hd_m.png" group-title="Geral",SBT TV Cidade Verde (1080p) [Not 24/7]
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT TV Serra Dourada (360p) [Not 24/7]" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-serra-dourada-hd_m.png" group-title="Geral",SBT TV Serra Dourada (360p) [Not 24/7]
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globo SP HD (720p)" tvg-logo="https://images2.imgbox.com/56/1a/L3kVJJZn_o.png" group-title="Globo",Globo SP HD (720p)
+https://stream.goiptv.site/hls/globo-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Globo MG HD (720p)" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Globo",Globo MG HD (720p)
+http://168.205.87.198:8555/live/1499/123456/70.m3u8
+
+#EXTINF:-1 tvg-id="Globo RPC HD (720p)" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Globo",Globo RPC HD (720p)
+http://45.226.83.14/live/RPCHD/720p.m3u8
+
+#EXTINF:-1 tvg-id="Globo SP FHD (1080p)" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Globo",Globo SP FHD (1080p)
+http://50.7.34.155:2200/BR/Globo_HD_SP-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="Globo RJ HD (720p)" tvg-logo="https://imgur.com/Sgpzemb.png" group-title="Globo",Globo RJ HD (720p)
+http://50.7.34.155:2200/BR/Globo_HD_RJ-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="A vida moderna de Rocko (720p)" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="Infantil",A vida moderna de Rocko (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Nick ClÃ¡ssico (720p)" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="Infantil",Nick ClÃ¡ssico (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Nick Jr. Club (720p)" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="Infantil",Nick Jr. Club (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="O Reino Infantil (720p)" tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="Infantil",O Reino Infantil (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Junior (720p)" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="Infantil",Pluto TV Junior (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Kids (720p)" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="Infantil",Pluto TV Kids (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Turma da MÃ´nica (720p)" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Infantil",Turma da MÃ´nica (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Chaves 24h (480p)" tvg-logo="https://imgur.com/5ftKxTQ.png" group-title="Infantil",Chaves 24h (480p)
+https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Todo Mundo Odeia o Cris 24h (480p)" tvg-logo="https://imgur.com/eSo7S9b.png" group-title="Infantil",Todo Mundo Odeia o Cris 24h (480p)
+http://dns.ccdns2.xyz/live/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/9659.m3u8
+
+#EXTINF:-1 tvg-id="Bob Esponja 24h (480p)" tvg-logo="https://imgur.com/pSchbaL.png" group-title="Infantil",Bob Esponja 24h (480p)
+http://dns.ccdns2.xyz/live/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/13269.m3u8
+
+#EXTINF:-1 tvg-id="ZOOMOO (720p)" tvg-logo="https://imgur.com/8dkdoej.png" group-title="Infantil",ZOOMOO (720p)
+http://168.205.87.198:8555/live/1499/123456/162.m3u8
+
+#EXTINF:-1 tvg-id="Nick JR. (1080p)" tvg-logo="https://imgur.com/P1l0cnx.png" group-title="Infantil",Nick JR. (1080p)
+https://liv11octhd.stblauncher.com/live/5779_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1 tvg-id="Nickelodeon (1080p)" tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Infantil",Nickelodeon (1080p)
+https://liv11octhd.stblauncher.com/live/5825_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+
+#EXTINF:-1 tvg-id="Rakuten FamÃ­lia (360p)" tvg-logo="https://imgur.com/3bvMvx2.png" group-title="Infantil",Rakuten FamÃ­lia (360p)
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network (480p)" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Infantil",Cartoon Network (480p)
+http://45.161.252.33/CARTOON_NETWORK/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel (1080p)" tvg-logo="https://imgur.com/FDKVMyp.png.png" group-title="Infantil",Disney Channel (1080p)
+http://50.7.34.155:2201/BR/Disney_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="TV CÃ¢mara (1080p)" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislativo",TV CÃ¢mara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TV CÃ¢mara 2 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislativo",TV CÃ¢mara 2 (1080p) [Not 24/7]
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TV Camara de Sao Paulo (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_tvcamara_.png/320px-Logo_tvcamara_.png" group-title="Legislativo",TV Camara de Sao Paulo (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Loupe (720p)" tvg-logo="https://images.pluto.tv/channels/600b248969c6580007e91a2d/colorLogoPNG.png" group-title="Lifestyle",Loupe (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Estilo de Vida (720p)" tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Estilo de Vida (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Fashionbox (720p)" tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Fashionbox (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Tastemade (720p)" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="Lifestyle",Tastemade (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="World Fashion Channel (1080p)" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede CNT (SÃ£o Paulo) (180p) [Not 24/7]" tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png" group-title="Local",Rede CNT (SÃ£o Paulo) (180p) [Not 24/7]
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
+
+#EXTINF:-1 tvg-id="Rede RC (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Local",Rede RC (360p) [Not 24/7]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:-1 tvg-id="TV Cidade Canal 9 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/mbw27tW.png" group-title="Local",TV Cidade Canal 9 (720p) [Not 24/7]
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Cidade de PetrÃ³polis (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/jaaGxnd.png" group-title="Local",TV Cidade de PetrÃ³polis (1080p) [Not 24/7]
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Cidade de Sao Paulo [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/88/Logotipo_da_TV_Cidade_de_S%C3%A3o_Paulo.png/200px-Logotipo_da_TV_Cidade_de_S%C3%A3o_Paulo.png" group-title="Local",TV Cidade de Sao Paulo [Not 24/7]
+https://cast.cdnseguro.com:19360/8012/8012.m3u8
+
+#EXTINF:-1 tvg-id="TV Galega Blumenau (720p) [Not 24/7]" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="Local",TV Galega Blumenau (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Interlagos (480p) [Not 24/7]" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" group-title="Local",TV Interlagos (480p) [Not 24/7]
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Jornal do Nordeste (720p) [Not 24/7]" tvg-logo="https://pa-str.srvsite.com/arquivos/5459/cabecalho-5459-20200226161907.png" group-title="Local",TV Jornal do Nordeste (720p) [Not 24/7]
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Mon (720p)" tvg-logo="https://i.imgur.com/j7EJvHr.png" group-title="Local",TV Mon (720p)
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Nova Onda (720p)" tvg-logo="https://i.imgur.com/1dCdBM5.png" group-title="Local",TV Nova Onda (720p)
+https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Pantanal MS (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="Local",TV Pantanal MS (720p) [Not 24/7]
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV PoÃ§os (192p) [Not 24/7]" tvg-logo="https://tvpocos.com.br/wp-content/uploads/2017/04/logo_branca_125.png" group-title="Local",TV PoÃ§os (192p) [Not 24/7]
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Santa Cruz (720p) [Not 24/7]" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc.png" group-title="Local",TV Santa Cruz (720p) [Not 24/7]
+https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Sol Comunidade (480p) [Not 24/7]" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" group-title="Local",TV Sol Comunidade (480p) [Not 24/7]
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Uniao (1080p) [Not 24/7]" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-uni-o_m.png" group-title="Local",TV Uniao (1080p) [Not 24/7]
+http://stmv1.ifantasy.com.br/admin/admin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV UniSantos (216p) [Not 24/7]" tvg-logo="http://www.tvunisantos.com.br/images/resource/logo.png" group-title="Local",TV UniSantos (216p) [Not 24/7]
+http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCI (360p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_RCI.png" group-title="Local",TVCI (360p) [Not 24/7]
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+
+#EXTINF:-1 tvg-id="TVE Bahia (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title="Local",TVE Bahia (720p) [Not 24/7]
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-id="TVN Brasil (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Cywnp02.png" group-title="Local",TVN Brasil (720p) [Not 24/7]
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVunisat (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/x6rVrTt.png" group-title="Local",TVunisat (360p) [Not 24/7]
+https://stmv1.srvstm.com/jurandir3193/jurandir3193/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 25 JundiaÃ­ (404p) [Not 24/7]" tvg-logo="https://i.imgur.com/9SjoGWj.png" group-title="Local",Canal 25 JundiaÃ­ (404p) [Not 24/7]
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+
+#EXTINF:-1 tvg-id="ITV (480p) [Not 24/7]" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local",ITV (480p) [Not 24/7]
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+
+#EXTINF:-1 tvg-id="Nova Era TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Local",Nova Era TV (1080p) [Not 24/7]
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="Rede CNT (Curitiba) (360p) [Not 24/7]" tvg-logo="http://www.cnt.com.br/public/dist/assets/myDev/image/global/logo.png" group-title="Local",Rede CNT (Curitiba) (360p) [Not 24/7]
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
+
+#EXTINF:-1 tvg-id="KpopTV Play (720p) [Not 24/7]" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Musica",KpopTV Play (720p) [Not 24/7]
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Metal TV (720p) [Not 24/7]" tvg-logo="" group-title="Musica",Metal TV (720p) [Not 24/7]
+https://v2.catcast.tv/content/33816/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV Biggest Pop (720p)" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Musica",MTV Biggest Pop (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="MTV Spankin" New (720p)" tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title="Musica",MTV Spankin" New (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV KaraokÃª por Stingray (720p)" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="Musica",Pluto TV KaraokÃª por Stingray (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05ad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV Shows por Stingray (720p)" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="Musica",Pluto TV Shows por Stingray (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Sesc TV (1080p) [Not 24/7]" tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/SESCTV-ICON.png" group-title="Musica",Sesc TV (1080p) [Not 24/7]
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index.m3u8
+
+#EXTINF:-1 tvg-id="TV BNO (270p) [Not 24/7]" tvg-logo="https://www.tvbno.com.br/images/LOGOTIPO-BNO-1.png" group-title="Musica",TV BNO (270p) [Not 24/7]
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+
+#EXTINF:-1 tvg-id="France 24 English (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NotÃ­cias",France 24 English (1080p)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="Jovem Pan News (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/320px-Jovem_Pan_logo_2018.svg.png" group-title="NotÃ­cias",Jovem Pan News (1080p)
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Record News (480p)" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="NotÃ­cias",Pluto TV Record News (480p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Record News (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="NotÃ­cias",Record News (720p)
+https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RT News (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="NotÃ­cias",RT News (1080p) [Not 24/7]
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRT World (720p) [Not 24/7]" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="NotÃ­cias",TRT World (720p) [Not 24/7]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TVÃ­deoNews (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="NotÃ­cias",TVÃ­deoNews (720p) [Not 24/7]
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CNN Brasil (720p)" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="NotÃ­cias",CNN Brasil (720p)
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JP News (480p)" tvg-logo="https://imgur.com/dAv0hm6.png" group-title="NotÃ­cias",JP News (480p)
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_3.m3u8
+
+#EXTINF:-1 tvg-id="JP News (720p)" tvg-logo="https://imgur.com/dAv0hm6.png" group-title="NotÃ­cias",JP News (720p)
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
+
+#EXTINF:-1 tvg-id="Record News (480p)" tvg-logo="https://imgur.com/nBKI2Ik.png" group-title="NotÃ­cias",Record News (480p)
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_480_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Globo News (1080p)" tvg-logo="https://imgur.com/25bJmvW.png" group-title="NotÃ­cias",Globo News (1080p)
+http://50.7.34.155:2200/BR/Globo_News_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="Band News (1080p)" tvg-logo="https://imgur.com/JcWqFcR.png" group-title="NotÃ­cias",Band News (1080p)
+http://50.7.34.155:2200/BR/Band_News_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+
+#EXTINF:-1 tvg-id="Agromais (1080p) [Geo-blocked]" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="NotÃ­cias",Agromais (1080p) [Geo-blocked]
+https://goiptv.site/redir.php?acesso=30a0dcaecfb01558c07bd262a7d2a335&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
+
+#EXTINF:-1 tvg-id="Al Jazeera English (1080p)" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="NotÃ­cias",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="Bandnews (720p) [Geo-blocked]" tvg-logo="https://www.band.uol.com.br/assets/bandnewstv/logo.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="NotÃ­cias",Bandnews (720p) [Geo-blocked]
+https://goiptv.site/redir.php?acesso=4b9fb67ca0e95e82500cb2dac39ecaea&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
+
+#EXTINF:-1 tvg-id="BBC News (480p)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="NotÃ­cias",BBC News (480p)
+http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBC World News (576p)" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="NotÃ­cias",BBC World News (576p)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal Metropolitano de Noticias (720p) [Not 24/7]" tvg-logo="http://www.cmn.tv.br/images/logo_cmn.fw.png" group-title="NotÃ­cias",Canal Metropolitano de Noticias (720p) [Not 24/7]
+http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN Brasil (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/JXb5l9K.png" group-title="NotÃ­cias",CNN Brasil (1080p) [Not 24/7]
+https://goiptv.site/redir.php?acesso=4f8dc1d41b6f2f2e776da77f91eeaeae&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
+
+#EXTINF:-1 tvg-id="DW English (1080p)" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="NotÃ­cias",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="Euronews English (720p)" tvg-logo="https://i.postimg.cc/X7YYFZR2/euronews.png" group-title="NotÃ­cias",Euronews English (720p)
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+
+#EXTINF:-1 tvg-id="Euronews PortuguÃªs (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png" group-title="NotÃ­cias",Euronews PortuguÃªs (720p)
+https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fonte TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/4lnSlOZ.png" group-title="Religioso",Fonte TV (1080p) [Not 24/7]
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+
+#EXTINF:-1 tvg-id="Gospel Movie TV (360p)" tvg-logo="https://ipgo.xyz/tv/gmovies/imagens/logo_gospelf_site.png" group-title="Religioso",Gospel Movie TV (360p)
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IMPD TV (720p)" tvg-logo="https://i.imgur.com/D15qpCm.png" group-title="Religioso",IMPD TV (720p)
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Novo Tempo (720p)" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religioso",Novo Tempo (720p)
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Peace TV English (1080p)" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/english.jpg" group-title="Religioso",Peace TV English (1080p)
+http://199.223.252.162:8032/english_adaptive/index.m3u8
+
+#EXTINF:-1 tvg-id="PUC TV GoiÃ¡s (326p) [Not 24/7]" tvg-logo="http://www.puctvgoias.com.br/img/logo.png" group-title="Religioso",PUC TV GoiÃ¡s (326p) [Not 24/7]
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
+#EXTINF:-1 tvg-id="Rede Brasil de ComunicaÃ§Ã£o (720p) [Not 24/7]" tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Religioso",Rede Brasil de ComunicaÃ§Ã£o (720p) [Not 24/7]
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+
+#EXTINF:-1 tvg-id="Rede Gospel (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="Religioso",Rede Gospel (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede MÃ£o Amiga (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cqD6DNY.png" group-title="Religioso",Rede MÃ£o Amiga (720p) [Not 24/7]
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+
+#EXTINF:-1 tvg-id="Rede SÃ©culo 21 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/vvrCWVo.jpg" group-title="Religioso",Rede SÃ©culo 21 (1080p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Super (432p) [Not 24/7]" tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="Religioso",Rede Super (432p) [Not 24/7]
+https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-id="Rede Vida (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/267px-Rede_Vida_logo.png" group-title="Religioso",Rede Vida (720p) [Not 24/7]
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Aparecida (1080p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="Religioso",TV Aparecida (1080p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Evangelizar (480p)" tvg-logo="https://i.imgur.com/4LG6sA0.png" group-title="Religioso",TV Evangelizar (480p)
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Gideoes (720p) [Not 24/7]" tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2018/12/logotipo-tvgideoes.png" group-title="Religioso",TV Gideoes (720p) [Not 24/7]
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Pai Eterno (480p) [Not 24/7]" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="Religioso",TV Pai Eterno (480p) [Not 24/7]
+https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Terceiro Anjo (360p) [Not 24/7]" tvg-logo="https://www.terceiroanjo.com/static/img/logo-2019-gif.gif" group-title="Religioso",TV Terceiro Anjo (360p) [Not 24/7]
+https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Dark Matter TV Brazil (720p)" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true" group-title="SÃ©ries",Dark Matter TV Brazil (720p)
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jeannie Ã© um GÃªnio (720p)" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="SÃ©ries",Jeannie Ã© um GÃªnio (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV InvestigaÃ§Ã£o (720p)" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="SÃ©ries",Pluto TV InvestigaÃ§Ã£o (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="Pluto TV SÃ©ries (720p)" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="SÃ©ries",Pluto TV SÃ©ries (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-
+
+#EXTINF:-1 tvg-id="TV ParanÃ¡ Turismo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="Viagens",TV ParanÃ¡ Turismo (720p) [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8
+
 
 
 

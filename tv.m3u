@@ -10,13 +10,9 @@ https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w6
 #EXTINF:-1 tvg-logo="" group-title="TV", Cultura CxTV
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w890764670.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",REDE BRASIL
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1435283609.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",Rede TV
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1145706398.m3u8
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1435283609.m3u8a
 #EXTINF:-1 tvg-logo="" group-title="TV",TV CULTURA PR (Catve)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",RunTime Brasil
-https://runtimebrazil-samsungbrazil.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",Ürban Kids¹ (Floripa-SC)
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",Ürban Kids² (Floripa-SC)
@@ -37,12 +33,6 @@ https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8?sd=10&re
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",Jangadeiro
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w248121041_b1000000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",TV Cultura - Unisul TV (SC)
-https://hls.brasilstream.com.br/live/sitetv/sitetv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",TV Cultura - TV Brasil Central (GO)
 http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",Futura - Canal FDR (CE)
@@ -53,8 +43,6 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1479612842
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",SBT PI (TV Cidade Verde)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",SBT GO (TV Serra Dourada)
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1310764323.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w2134141352.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="" group-title="TV",Band News
@@ -65,18 +53,10 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1386126585.m3u8
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV", DarkMatter TV
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV", Sbt Tv Floresta
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w349049629_b1000000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV", Sbt tvguajara
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV", Jovem pan news
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV",Gazeta
-https://player-api.new.livestream.com/accounts/5381476/events/8947634/broadcasts/230086016.secure.m3u8?dw=14400&hdnea=st%3D1648128815~exp%3D1648130615~acl%3D%2Fi%2F5381476_8947634_lsimq9p0170zzfp0n8x_1%40122701%2F%2A~hmac%3D25bdb7decef1e1ba0cd773464619fb82d7962ff89f6b1e24992a78d1d9690e01&token=623c745b_4d78b65421a5e2ffbad74bfa3ecd490e3dfcec6e
-#EXTINF:-1 tvg-logo="" group-title="TV",Gazeta opção 2
-http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV", NOva Gazeta
 http://video02.kshost.com.br/sueli3485/sueli3485/chunklist_w1806011305.m3u8
 

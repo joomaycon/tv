@@ -1,5 +1,21 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="TV",Tv Channel Network
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1788075621.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",AniTv
+https://srv6.zcast.com.br/anitv/anitv/chunklist_w541535606.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",Hits Fm Tv
+https://stmv1.srvsh.com.br/gilberto5815/gilberto5815/chunklist_w175364202.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",Agente 86
+https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w561129552.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",Loading Tv
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w893214024.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",Tv Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w839052405.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV",Tv Séries
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1659364883.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",Rede TV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1145706398.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",TV Futuro

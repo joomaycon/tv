@@ -84,6 +84,42 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 http://video02.kshost.com.br/sueli3485/sueli3485/chunklist_w1806011305.m3u8
 
 
+#EXTM3U
+
+#EXTINF:-1 group-title="Rádios",Chinese Music
+https://radio.chinesemusicworld.com/chinesemusic.ogg?_=1
+#EXTINF:-1 group-title="Rádios", Japan-A-Radio - Anime Music & Japanese Pop (JPOP / Anime)
+https://audio.misproductions.com/japan48kaacp
+#EXTINF:-1 group-title="Rádios", Kiss Fm Algarve
+https://nl.digitalrm.pt:8024/stream
+#EXTINF:-1 group-title="Rádios",Radio Rock 89
+https://21933.live.streamtheworld.com/RADIO_89FM_ADP.aac?dist=onlineradiobox
+#EXTINF:-1 group-title="Rádios", Radio Vitrola
+https://servidor33-4.brlogic.com:8138/live
+#EXTINF:-1 group-title="Rádios",Saudade Fm
+https://18053.live.streamtheworld.com/SAUDADE_FMAAC.aac?dist=radios.com.br&1643985559644
+#EXTINF:-1 group-title="Rádios", Rádio ParadaHits
+http://178.128.186.113:8000//stream
+#EXTINF:-1 group-title="Rádios", Antena 1
+https://antenaone.crossradio.com.br/stream/2;
+#EXTINF:-1 group-title="Rádios", Mix FM
+https://26603.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac?dist=onlineradiobox
+#EXTINF:-1 group-title="Rádios", Alpha FM
+https://18693.live.streamtheworld.com/RADIO_ALPHAFM_ADP.aac?dist=onlineradiobox
+#EXTINF:-1 group-title="Rádios", Jovem Pan
+https://20833.live.streamtheworld.com/JP_SP_FMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 group-title="Rádios", 1.FM - Love Classics
+http://strm112.1.fm/loveclassics_mobile_mp3
+#EXTINF:-1 group-title="Rádios", Kiss FM
+https://cloud2.cdnseguro.com:20000/stream
+#EXTINF:-1 group-title="Rádios", Rádio Meio Norte 93.1 FM
+https://webradio.amsolution.com.br/radio/8240/camocim?1651509494923
+#EXTINF:-1 group-title="Rádios", Rádio União 93.7 FM
+http://69.197.191.50:6846/stream?1651509606815
+#EXTINF:-1 group-title="Rádios", Radio Fama 105.0 FM
+http://digitalfm.dynu.com:8000/digitalfm64?1651509714332
+
+
 ###############################################################################
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"

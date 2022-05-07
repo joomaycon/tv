@@ -1,6 +1,20 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="" group-title="TV", TV PORTALWEB
+https://alanza.iptv2022.com/TV_PORTALWEB/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", ASSIM É PORTUGAL
+https://alanza.iptv2022.com/ASSIME_PORTUGAL_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", TV ERGA OMNES
+https://alanza.iptv2022.com/TV_Erga_Omnes/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", REDE BRASIL DE TELEVISÃO
+https://alanza.iptv2022.com/RBTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", REDE LIVRE
+https://alanza.iptv2022.com/REDE_LIVRE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", TV Portal HD
+https://alanza.iptv2022.com/TV_PortalHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", Rede Sul de Televisão
+https://alanza.iptv2022.com/Rede_Sul_de_Televisao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV", Tv Paraná Turismo
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV", TV Carioca Net 
@@ -9,8 +23,16 @@ https://alanza.iptv2022.com/TV_CariocaNet/tracks-v1a1/mono.m3u8
 https://alanza.iptv2022.com/TV_Brusque/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV", Rede Família
 https://alanza.iptv2022.com/Rede_Familia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV", 
-#EXTINF:-1 tvg-logo="" group-title="TV",
+#EXTINF:-1 tvg-logo="" group-title="TV", REDE SIM
+https://alanza.iptv2022.com/Rede_Sim/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", Com Brasil
+https://alanza.iptv2022.com/Combrasil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", Polidoro TV 
+https://alanza.iptv2022.com/TV_TEEN_NET_RIO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", TV BRASIL HITS
+https://alanza.iptv2022.com/TV_BRASIL_HITS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV", REDE TV BELEM
+https://alanza.iptv2022.com/Rede_TV_belem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",Tv Channel Network
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1788075621.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV",AniTv

@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1, CLASSIC TV
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1623368929.m3u8
+
+#EXTINF:-1, Catedral do Rock
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w472733364.m3u8
 
 #EXTINF:-1,Chespirito tv
 http://168.205.87.198:8555/live/1492/123456/159.m3u8

@@ -1,9 +1,27 @@
 #EXTM3U
 
+
+
+#EXTINF:-1, Anime Tv
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1215208975.m3u8
+#EXTINF:-1, Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1962959269.m3u8
+#EXTINF:-1, TV Brasil
+https://tvbrasil-stream.ebc.com.br/chunks.m3u8
+#EXTINF:-1, TVE
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w1514500851_b5128000.m3u8
+#EXTINF:-1, Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w371260833.m3u8
+#EXTINF:-1, Band
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w2119956664.m3u8
 #EXTINF:-1, SBT Interior
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-
-#EXTM3U
+#EXTINF:-1, Rede Brasil
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w1850180895.m3u8
+#EXTINF:-1, Rede Tv 2
+https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+#EXTINF:-1, Rede Tv
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w2048144080.m3u8
 #EXTINF:-1,2000 A Escrava_Isaura (BR)
 https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
 #EXTINF:-1,2001 Os Dez Mandamentos (BR)
